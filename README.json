@@ -1,0 +1,1167 @@
+{
+  "items": [
+    {
+      "description": "Private, Public and Hybrid open-source Cloud Platforms.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Localstack",
+          "description": "Fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-23T08:52:01Z",
+            "owner": "localstack",
+            "repo": "localstack",
+            "stars": 65148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fakecloud",
+          "description": "Free, open-source local AWS cloud emulator for development and testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T08:19:23Z",
+            "owner": "faiscadev",
+            "repo": "fakecloud",
+            "stars": 516
+          }
+        }
+      ],
+      "title": "Open Source Cloud Platforms"
+    },
+    {
+      "description": "Applications management platforms, Containers platform and Containers management.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docker Compose",
+          "description": "Define and run multi-container applications with Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:24:01Z",
+            "owner": "docker",
+            "repo": "compose",
+            "stars": 38078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Podman",
+          "description": "A tool for managing OCI containers and pods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:55:41Z",
+            "owner": "podman-container-tools",
+            "repo": "podman",
+            "stars": 32547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piku",
+          "description": "The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T03:04:24Z",
+            "owner": "piku",
+            "repo": "piku",
+            "stars": 6600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Swarm",
+          "description": "Docker-native clustering system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-06-11T09:36:02Z",
+            "owner": "docker-archive",
+            "repo": "classicswarm",
+            "stars": 5730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppScale",
+          "description": "Easy-to-manage serverless platform for building and running scalable web and mobile applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-22T02:14:44Z",
+            "owner": "AppScale",
+            "repo": "gts",
+            "stars": 2422
+          }
+        }
+      ],
+      "title": "Applications Platforms"
+    },
+    {
+      "description": "Tools for automation, orchestration, deployment, provisioning and configuration management.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OctoDNS",
+          "description": "Managing DNS across multiple providers. DNS as code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T00:14:05Z",
+            "owner": "octodns",
+            "repo": "octodns",
+            "stars": 3744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ignite",
+          "description": "Open Source Virtual Machine (VM) manager with a container UX and built-in GitOps management.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-12-07T17:28:58Z",
+            "owner": "weaveworks",
+            "repo": "ignite",
+            "stars": 3530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selefra",
+          "description": "An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-08-30T04:35:10Z",
+            "owner": "selefra",
+            "repo": "selefra",
+            "stars": 546
+          }
+        }
+      ],
+      "title": "Automation & Orchestration"
+    },
+    {
+      "description": "All the tools, services which increase productivity, developer velocity and developer experience.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyenv",
+          "description": "Simple Python version management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T22:51:46Z",
+            "owner": "pyenv",
+            "repo": "pyenv",
+            "stars": 45011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfenv",
+          "description": "Terraform version manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T17:32:52Z",
+            "owner": "tfutils",
+            "repo": "tfenv",
+            "stars": 4962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubefwd",
+          "description": "Bulk port forwarding Kubernetes services for local development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T22:33:54Z",
+            "owner": "txn2",
+            "repo": "kubefwd",
+            "stars": 4161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tenv",
+          "description": "streamline IaC version manager for OpenTofu, Terraform, Terragrunt and Atmos, written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T17:32:19Z",
+            "owner": "tofuutils",
+            "repo": "tenv",
+            "stars": 1426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purple",
+          "description": "SSH client with AWS/GCP/Azure sync, Docker/Podman and SCP transfers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T03:37:15Z",
+            "owner": "erickochen",
+            "repo": "purple",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telert",
+          "description": "Get alerts when terminal commands finish via Telegram, Slack, Audio, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T08:35:57Z",
+            "owner": "navig-me",
+            "repo": "telert",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claws",
+          "description": "A terminal UI for managing AWS resources across multiple profiles and regions with vim-style navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T16:29:51Z",
+            "owner": "clawscli",
+            "repo": "claws",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Productivity Tools"
+    },
+    {
+      "description": "Continuous Integration, Continuous Delivery and Continuous Delivery. GitOps.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "On-premises",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Drone",
+              "description": "a Container-Native, Continuous Delivery Platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-12T21:53:10Z",
+                "owner": "harness",
+                "repo": "harness",
+                "stars": 37793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flux",
+              "description": "automatically ensures that the state of your Kubernetes cluster matches the configuration you’ve supplied in Git.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Go",
+                "last_commit": "2022-11-01T15:16:50Z",
+                "owner": "fluxcd",
+                "repo": "flux",
+                "stars": 6857
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flagger",
+              "description": "progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-11T14:00:22Z",
+                "owner": "fluxcd",
+                "repo": "flagger",
+                "stars": 5388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Semaphore Community Edition",
+              "description": "open-source (Apache-2) CI/CD for building, testing, and deploying any project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Elixir",
+                "last_commit": "2026-08-13T01:55:56Z",
+                "owner": "semaphoreio",
+                "repo": "semaphore",
+                "stars": 1573
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evergreen",
+              "description": "A Distributed Continuous Integration System from MongoDB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-12T16:14:29Z",
+                "owner": "evergreen-ci",
+                "repo": "evergreen",
+                "stars": 450
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Public Services",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github actions",
+              "description": "GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD.",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Continuous Integration & Delivery"
+    },
+    {
+      "description": "Source Code management, Git-repository manager, Version Control. Some of them are included in Code review section.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Phabricator",
+          "description": "A collection of web applications which help software companies build better software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-12T10:28:40Z",
+            "owner": "phacility",
+            "repo": "phabricator",
+            "stars": 12297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitblit",
+          "description": "Pure Java Git solution for managing, viewing, and serving Git repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-14T17:22:23Z",
+            "owner": "gitblit-org",
+            "repo": "gitblit",
+            "stars": 2357
+          }
+        }
+      ],
+      "title": "Source Code Management"
+    },
+    {
+      "description": "Tools for automating the management of SSL certificates.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Certbot",
+          "description": "Automate using Let’s Encrypt certificates on manually-managed websites to enable HTTPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:58:22Z",
+            "owner": "certbot",
+            "repo": "certbot",
+            "stars": 33195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cert Manager",
+          "description": "K8S add-on to automate the management and issuance of TLS certificates from various issuing sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:51:53Z",
+            "owner": "cert-manager",
+            "repo": "cert-manager",
+            "stars": 14015
+          }
+        }
+      ],
+      "title": "SSL"
+    },
+    {
+      "description": "Observability, Monitoring, Metrics/Metrics collection and Alerting tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Glances",
+          "description": "Monitoring information through a curses or Web based interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T08:18:46Z",
+            "owner": "nicolargo",
+            "repo": "glances",
+            "stars": 33325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cAdvisor",
+          "description": "Analyzes resource usage and performance characteristics of running containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-20T21:23:51Z",
+            "owner": "google",
+            "repo": "cadvisor",
+            "stars": 19351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keep",
+          "description": "Open source alerting CLI for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T08:50:30Z",
+            "owner": "keephq",
+            "repo": "keep",
+            "stars": 12202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Healthchecks",
+          "description": "Cron monitoring tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:56:02Z",
+            "owner": "healthchecks",
+            "repo": "healthchecks",
+            "stars": 10237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cabot",
+          "description": "Self-hosted, easily-deployable monitoring and alerts service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-10T09:23:26Z",
+            "owner": "arachnys",
+            "repo": "cabot",
+            "stars": 5671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HolmesGPT",
+          "description": "Open Source AI assistant that can investigate alerts and find root cause automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:29:44Z",
+            "owner": "HolmesGPT",
+            "repo": "holmesgpt",
+            "stars": 3049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alerta",
+          "description": "Scalable, minimal configuration and visualization monitoring system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T19:34:29Z",
+            "owner": "alerta",
+            "repo": "alerta",
+            "stars": 2526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElastiFlow",
+          "description": "Network flow monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-03-22T22:03:16Z",
+            "owner": "robcowart",
+            "repo": "elastiflow",
+            "stars": 2511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amon",
+          "description": "Modern server monitoring platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-01T16:02:12Z",
+            "owner": "martinrusev",
+            "repo": "amon",
+            "stars": 1323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shinken",
+          "description": "Monitoring framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-26T08:16:18Z",
+            "owner": "shinken-solutions",
+            "repo": "shinken",
+            "stars": 1136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grai",
+          "description": "Open source observability integrating data impact analysis into CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T20:28:25Z",
+            "owner": "grai-io",
+            "repo": "grai-core",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Globalping CLI",
+          "description": "Run network commands like ping, traceroute and mtr from hundreds of global locations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:23:50Z",
+            "owner": "jsdelivr",
+            "repo": "globalping-cli",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Merlinn",
+          "description": "Open-source AI on-call developer.",
+          "children": []
+        },
+        {
+          "node_type": "group",
+          "title": "Metrics/Metrics collection",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Freeboard",
+              "description": "Real-time dashboard builder for IOT and other web mashups.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-09-23T21:14:02Z",
+                "owner": "Freeboard",
+                "repo": "freeboard",
+                "stars": 6504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Collectd",
+              "description": "The system statistics collection daemon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-05-29T12:58:43Z",
+                "owner": "collectd",
+                "repo": "collectd",
+                "stars": 3366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Facette",
+              "description": "Time series data visualization software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2021-10-05T06:11:23Z",
+                "owner": "facette",
+                "repo": "facette",
+                "stars": 1157
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Logs Management",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Loki",
+              "description": "Horizontally-scalable, highly available, multi-tenant log aggregation system inspired by Prometheus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-13T01:30:32Z",
+                "owner": "grafana",
+                "repo": "loki",
+                "stars": 28722
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graylog",
+              "description": "Free and open source log management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-13T00:22:13Z",
+                "owner": "Graylog2",
+                "repo": "graylog2-server",
+                "stars": 8111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anthracite",
+              "description": "An event/change logging/management app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-12-13T18:16:07Z",
+                "owner": "Dieterbe",
+                "repo": "anthracite",
+                "stars": 295
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Status",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cachet",
+              "description": "Beautiful and powerful open-source status page system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2026-08-11T18:56:39Z",
+                "owner": "cachethq",
+                "repo": "cachet",
+                "stars": 15215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Oxmgr",
+              "description": "Lightweight Rust process manager and PM2 alternative. 42x faster crash recovery, 19x lower memory usage. Manages Node.js, Python, Go, and any executable on Linux, macOS, and Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-10T06:47:00Z",
+                "owner": "Vladimir-Urik",
+                "repo": "OxMgr",
+                "stars": 210
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Observability & Monitoring"
+    },
+    {
+      "description": "Service Discovery, Service Mesh and Failure detection tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Linkerd",
+          "description": "Service mesh for Kubernetes and beyond.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:40:43Z",
+            "owner": "linkerd",
+            "repo": "linkerd2",
+            "stars": 11477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doozerd",
+          "description": "A consistent distributed data store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-03-16T04:01:32Z",
+            "owner": "ha",
+            "repo": "doozerd",
+            "stars": 3250
+          }
+        }
+      ],
+      "title": "Service Discovery & Service Mesh"
+    },
+    {
+      "description": "The discipline of experimenting on a distributed system in order to build confidence in the system's capability to withstand turbulent conditions in production.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chaos Monkey",
+          "description": "A resiliency tool that helps applications tolerate random instance failures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-06T08:37:10Z",
+            "owner": "Netflix",
+            "repo": "chaosmonkey",
+            "stars": 17075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toxiproxy",
+          "description": "Simulate network and system conditions for chaos and resiliency testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T07:02:30Z",
+            "owner": "Shopify",
+            "repo": "toxiproxy",
+            "stars": 12238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chaos Mesh",
+          "description": "A Chaos Engineering Platform for Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T17:44:46Z",
+            "owner": "chaos-mesh",
+            "repo": "chaos-mesh",
+            "stars": 7843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Litmus",
+          "description": "Litmus enables teams to identify weaknesses in infrastructures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T04:40:44Z",
+            "owner": "litmuschaos",
+            "repo": "litmus",
+            "stars": 5591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pumba",
+          "description": "Chaos testing, network emulation and stress testing tool for containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T03:15:26Z",
+            "owner": "alexei-led",
+            "repo": "pumba",
+            "stars": 3100
+          }
+        }
+      ],
+      "title": "Chaos Engineering"
+    },
+    {
+      "description": "API Gateway, Service Proxy and Service Management tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cilium",
+          "description": "API aware networking and security using BPF and XDP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:00:59Z",
+            "owner": "cilium",
+            "repo": "cilium",
+            "stars": 24921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "API Umbrella",
+          "description": "Proxy that sits in front of your APIs, API management platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T21:46:45Z",
+            "owner": "NatLabRockies",
+            "repo": "api-umbrella",
+            "stars": 2193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gloo",
+          "description": "Feature-rich, Kubernetes-native ingress controller, and next-generation API gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:33:20Z",
+            "owner": "solo-io",
+            "repo": "gloo",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SBproxy",
+          "description": "AI gateway and reverse proxy with LLM routing, rate limiting, and YAML config.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:40:58Z",
+            "owner": "soapbucket",
+            "repo": "sbproxy",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "API Gateway"
+    },
+    {
+      "description": "Distributed messaging platforms and Queues software.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Faktory",
+          "description": "Repository for background jobs within your application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T18:10:56Z",
+            "owner": "contribsys",
+            "repo": "faktory",
+            "stars": 6137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dkron",
+          "description": "Distributed, fault tolerant job scheduling system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T09:12:08Z",
+            "owner": "dkron-io",
+            "repo": "dkron",
+            "stars": 4723
+          }
+        }
+      ],
+      "title": "Distributed Messaging"
+    },
+    {
+      "description": "Security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Infisical",
+          "description": "Open source end-to-end encrypted secrets sync for teams and infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:12:26Z",
+            "owner": "Infisical",
+            "repo": "infisical",
+            "stars": 28730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sops",
+          "description": "Simple and flexible tool for managing secrets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T11:27:27Z",
+            "owner": "getsops",
+            "repo": "sops",
+            "stars": 22789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Secret",
+          "description": "A bash-tool to store your private data inside a git repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:12:25Z",
+            "owner": "sobolevn",
+            "repo": "git-secret",
+            "stars": 4035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vault Secrets Operator",
+          "description": "Create Kubernetes secrets from Vault for a secure GitOps based workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:30:26Z",
+            "owner": "ricoberger",
+            "repo": "vault-secrets-operator",
+            "stars": 685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lade",
+          "description": "Automatically load secrets from your preferred vault as environment variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T16:09:00Z",
+            "owner": "zifeo",
+            "repo": "lade",
+            "stars": 126
+          }
+        }
+      ],
+      "title": "Secret Management"
+    },
+    {
+      "description": "A collection of tools to help with sharing knowledge and telling the story.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docusaurus",
+          "description": "Easy to maintain open source documentation websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T21:10:56Z",
+            "owner": "facebook",
+            "repo": "docusaurus",
+            "stars": 65905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docsify",
+          "description": "A magical documentation site generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T02:27:24Z",
+            "owner": "docsifyjs",
+            "repo": "docsify",
+            "stars": 31451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitbook",
+          "description": "Modern documentation format and toolchain using Git and Markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:24:23Z",
+            "owner": "GitbookIO",
+            "repo": "gitbook",
+            "stars": 28993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MkDocs",
+          "description": "Project documentation with Markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-20T13:17:06Z",
+            "owner": "mkdocs",
+            "repo": "mkdocs",
+            "stars": 22336
+          }
+        }
+      ],
+      "title": "Sharing"
+    },
+    {
+      "description": "VPN, routing and firewall.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Algo",
+          "description": "Set up a personal VPN in the cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:46:21Z",
+            "owner": "trailofbits",
+            "repo": "algo",
+            "stars": 30358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streisand",
+          "description": "Sets up a new VPN service nearly automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-05-04T09:42:40Z",
+            "owner": "StreisandEffect",
+            "repo": "streisand",
+            "stars": 23479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sshuttle",
+          "description": "Transparent proxy server that works as a poor man's VPN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:49:18Z",
+            "owner": "sshuttle",
+            "repo": "sshuttle",
+            "stars": 13513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freelan",
+          "description": "A peer-to-peer, secure, easy-to-setup, multi-platform, open-source, highly-configurable VPN software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-07-31T19:17:48Z",
+            "owner": "freelan-developers",
+            "repo": "freelan",
+            "stars": 1377
+          }
+        }
+      ],
+      "title": "VPN"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the Contribution Guidelines.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:13.902Z",
+    "original_repository": "wmariuss/awesome-devops",
+    "original_repository_sha": "d7f166fda33e39c688fb4d962638d42d6259d296",
+    "enhanced_repository": "enhansome/enhansome-devops",
+    "enhanced_repository_description": null,
+    "title": "Awesome DevOps with stars"
+  }
+}
