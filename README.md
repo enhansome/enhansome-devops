@@ -1,9 +1,9 @@
 # Awesome DevOps with stars
 
-[![Awesome DevOps](http://awesome-devops.xyz/assets/banner.png)](https://github.com/wmariuss/awesome-devops) ⭐ 4,337 | 🐛 175 | 🌐 Python | 📅 2026-07-24
+[![Awesome DevOps](http://awesome-devops.xyz/assets/banner.png)](https://github.com/wmariuss/awesome-devops) ⭐ 4,338 | 🐛 175 | 🌐 Python | 📅 2026-07-24
 
-[![Deploy](https://github.com/wmariuss/awesome-devops/actions/workflows/deploy.yml/badge.svg)](https://github.com/wmariuss/awesome-devops/actions/workflows/deploy.yml) ⭐ 4,337 | 🐛 175 | 🌐 Python | 📅 2026-07-24
-[![Links validator](https://github.com/wmariuss/awesome-devops/actions/workflows/links-validator.yml/badge.svg)](https://github.com/wmariuss/awesome-devops/actions/workflows/links-validator.yml) ⭐ 4,337 | 🐛 175 | 🌐 Python | 📅 2026-07-24
+[![Deploy](https://github.com/wmariuss/awesome-devops/actions/workflows/deploy.yml/badge.svg)](https://github.com/wmariuss/awesome-devops/actions/workflows/deploy.yml) ⭐ 4,338 | 🐛 175 | 🌐 Python | 📅 2026-07-24
+[![Links validator](https://github.com/wmariuss/awesome-devops/actions/workflows/links-validator.yml/badge.svg)](https://github.com/wmariuss/awesome-devops/actions/workflows/links-validator.yml) ⭐ 4,338 | 🐛 175 | 🌐 Python | 📅 2026-07-24
 
 > A curated list of platforms, tools, practices and resources to create, improve DevOps culture and SRE Team in the organization.
 
@@ -69,7 +69,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 *Private, Public and Hybrid open-source Cloud Platforms.*
 
 * [Localstack](https://github.com/localstack/localstack) ⚠️ Archived - Fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline.
-* [Fakecloud](https://github.com/faiscadev/fakecloud) ⭐ 523 | 🐛 2 | 🌐 Rust | 📅 2026-08-17 - Free, open-source local AWS cloud emulator for development and testing.
+* [Fakecloud](https://github.com/faiscadev/fakecloud) ⭐ 527 | 🐛 1 | 🌐 Rust | 📅 2026-08-22 - Free, open-source local AWS cloud emulator for development and testing.
 * [Openstack](https://www.openstack.org/) - Open source software for creating private and public clouds.
 * [Apache CloudStack](https://cloudstack.apache.org/) - Designed to deploy and manage large networks of virtual machines.
 * [OpenNebula](https://opennebula.org/) - Build Private Clouds and manage Data Center virtualization based on KVM, LXD and VMware.
@@ -108,8 +108,8 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 *Applications management platforms, Containers platform and Containers management.*
 
-* [Docker Compose](https://github.com/docker/compose) ⭐ 38,044 | 🐛 94 | 🌐 Go | 📅 2026-08-21 - Define and run multi-container applications with Docker.
-* [Podman](https://github.com/containers/podman) ⭐ 32,658 | 🐛 1,130 | 🌐 Go | 📅 2026-08-21 - A tool for managing OCI containers and pods.
+* [Docker Compose](https://github.com/docker/compose) ⭐ 38,044 | 🐛 95 | 🌐 Go | 📅 2026-08-21 - Define and run multi-container applications with Docker.
+* [Podman](https://github.com/containers/podman) ⭐ 32,667 | 🐛 1,132 | 🌐 Go | 📅 2026-08-21 - A tool for managing OCI containers and pods.
 * [Piku](https://github.com/piku/piku) ⭐ 6,600 | 🐛 5 | 🌐 Python | 📅 2026-08-10 - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 * [Docker Swarm](https://github.com/docker/swarm) ⚠️ Archived - Docker-native clustering system.
 * [AppScale](https://github.com/AppScale/appscale) ⭐ 2,422 | 🐛 52 | 🌐 Python | 📅 2024-05-22 - Easy-to-manage serverless platform for building and running scalable web and mobile applications.
@@ -196,13 +196,13 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 *All the tools, services which increase productivity, developer velocity and developer experience.*
 
-* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,042 | 🐛 56 | 🌐 Shell | 📅 2026-08-16 - Simple Python version management.
-* [tfenv](https://github.com/tfutils/tfenv) ⭐ 4,962 | 🐛 31 | 🌐 Shell | 📅 2026-07-01 - Terraform version manager.
+* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,041 | 🐛 56 | 🌐 Shell | 📅 2026-08-16 - Simple Python version management.
+* [tfenv](https://github.com/tfutils/tfenv) ⭐ 4,963 | 🐛 32 | 🌐 Shell | 📅 2026-07-01 - Terraform version manager.
 * [kubefwd](https://github.com/txn2/kubefwd) ⭐ 4,161 | 🐛 11 | 🌐 Go | 📅 2026-08-21 - Bulk port forwarding Kubernetes services for local development.
 * [tenv](https://github.com/tofuutils/tenv) ⭐ 1,430 | 🐛 45 | 🌐 Go | 📅 2026-08-20 - streamline IaC version manager for OpenTofu, Terraform, Terragrunt and Atmos, written in Go.
-* [purple](https://github.com/erickochen/purple) ⭐ 600 | 🐛 4 | 🌐 Rust | 📅 2026-08-16 - SSH client with AWS/GCP/Azure sync, Docker/Podman and SCP transfers.
+* [purple](https://github.com/erickochen/purple) ⭐ 642 | 🐛 4 | 🌐 Rust | 📅 2026-08-16 - SSH client with AWS/GCP/Azure sync, Docker/Podman and SCP transfers.
 * [Telert](https://github.com/navig-me/telert) ⭐ 286 | 🐛 8 | 🌐 Python | 📅 2026-08-07 - Get alerts when terminal commands finish via Telegram, Slack, Audio, etc.
-* [claws](https://github.com/clawscli/claws) ⭐ 151 | 🐛 6 | 🌐 Go | 📅 2026-07-25 - A terminal UI for managing AWS resources across multiple profiles and regions with vim-style navigation.
+* [claws](https://github.com/clawscli/claws) ⭐ 152 | 🐛 6 | 🌐 Go | 📅 2026-07-25 - A terminal UI for managing AWS resources across multiple profiles and regions with vim-style navigation.
 * [Kanvas](https://kanvas.new) - a collaborative tool with visual interface for designing and operating infrastructure.
 * [YAML Validator](https://yamlvalidator.dev) - Online YAML validator, formatter and viewer with JSON Schema support for Kubernetes, Docker Compose, GitHub Actions, and more.
 
@@ -211,10 +211,10 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 *Continuous Integration, Continuous Delivery and Continuous Delivery. GitOps.*
 
 * On-premises
-  * [Drone](https://github.com/drone/drone) ⭐ 38,069 | 🐛 106 | 🌐 Go | 📅 2026-08-21 - a Container-Native, Continuous Delivery Platform.
+  * [Drone](https://github.com/drone/drone) ⭐ 38,082 | 🐛 107 | 🌐 Go | 📅 2026-08-21 - a Container-Native, Continuous Delivery Platform.
   * [Flux](https://github.com/fluxcd/flux) ⚠️ Archived - automatically ensures that the state of your Kubernetes cluster matches the configuration you’ve supplied in Git.
-  * [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,391 | 🐛 383 | 🌐 Go | 📅 2026-08-17 - progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments).
-  * [Semaphore Community Edition](https://github.com/semaphoreio/semaphore) ⭐ 1,580 | 🐛 166 | 🌐 Elixir | 📅 2026-08-21 - open-source (Apache-2) CI/CD for building, testing, and deploying any project.
+  * [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,392 | 🐛 383 | 🌐 Go | 📅 2026-08-17 - progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments).
+  * [Semaphore Community Edition](https://github.com/semaphoreio/semaphore) ⭐ 1,581 | 🐛 166 | 🌐 Elixir | 📅 2026-08-21 - open-source (Apache-2) CI/CD for building, testing, and deploying any project.
   * [Evergreen](https://github.com/evergreen-ci/evergreen) ⭐ 450 | 🐛 24 | 🌐 Go | 📅 2026-08-21 - A Distributed Continuous Integration System from MongoDB.
   * [Buildbot](http://buildbot.net/) - automate all aspects of the software development cycle.
   * [Gitlab CI](https://about.gitlab.com/product/continuous-integration/) - pipelines build, test, deploy, and monitor your code as part of a single, integrated workflow.
@@ -250,7 +250,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 *Source Code management, Git-repository manager, Version Control. Some of them are included in Code review section.*
 
 * [Phabricator](https://github.com/phacility/phabricator/) ⭐ 12,296 | 🐛 3 | 🌐 PHP | 📅 2024-04-12 - A collection of web applications which help software companies build better software.
-* [Gitblit](https://github.com/gitblit/gitblit) ⭐ 2,356 | 🐛 254 | 🌐 Java | 📅 2025-06-14 - Pure Java Git solution for managing, viewing, and serving Git repositories.
+* [Gitblit](https://github.com/gitblit/gitblit) ⭐ 2,357 | 🐛 254 | 🌐 Java | 📅 2025-06-14 - Pure Java Git solution for managing, viewing, and serving Git repositories.
 * [GitHub](https://github.com/) - Helps developers store and manage their code, as well as track and control changes to their code.
 * [Gitlab](https://gitlab.com/) - Entire DevOps lifecycle in one application.
 * [Bitbucket](https://bitbucket.org/product/) - Gives teams one place to plan projects, collaborate on code, test, and deploy
@@ -274,8 +274,8 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 *Tools for automating the management of SSL certificates.*
 
-* [Certbot](https://github.com/certbot/certbot) ⭐ 33,205 | 🐛 188 | 🌐 Python | 📅 2026-08-21 - Automate using Let’s Encrypt certificates on manually-managed websites to enable HTTPS.
-* [Cert Manager](https://github.com/jetstack/cert-manager) ⭐ 14,041 | 🐛 248 | 🌐 Go | 📅 2026-08-21 - K8S add-on to automate the management and issuance of TLS certificates from various issuing sources.
+* [Certbot](https://github.com/certbot/certbot) ⭐ 33,207 | 🐛 188 | 🌐 Python | 📅 2026-08-21 - Automate using Let’s Encrypt certificates on manually-managed websites to enable HTTPS.
+* [Cert Manager](https://github.com/jetstack/cert-manager) ⭐ 14,040 | 🐛 248 | 🌐 Go | 📅 2026-08-22 - K8S add-on to automate the management and issuance of TLS certificates from various issuing sources.
 * [Let’s Encrypt](https://letsencrypt.org/) - Free, automated, and open Certificate Authority.
 
 ## Databases
@@ -294,30 +294,30 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
   * [Couchdb](https://couchdb.apache.org/) - Database that completely embraces the web.
   * [Elasticsearch](https://www.elastic.co/products/elasticsearch) - Distributed, RESTful search and analytics engine capable of addressing a growing number of use cases.
   * [MongoDB](https://www.mongodb.com/) - General purpose, document-based, distributed database built for modern applications.
-  * [Rethinkdb](https://github.com/rethinkdb/rethinkdb) ⭐ 26,994 | 🐛 1,352 | 🌐 C++ | 📅 2026-03-28 - Open-source database for the real-time web.
+  * [Rethinkdb](https://github.com/rethinkdb/rethinkdb) ⭐ 26,996 | 🐛 1,352 | 🌐 C++ | 📅 2026-03-28 - Open-source database for the real-time web.
   * Key-Value
     * [Couchbase](https://www.couchbase.com/) - Distributed  multi-model NoSQL document-oriented database that is optimized for interactive applications.
-    * [Leveldb](https://github.com/google/leveldb) ⭐ 39,347 | 🐛 402 | 🌐 C++ | 📅 2026-03-11 - Fast key-value storage library.
+    * [Leveldb](https://github.com/google/leveldb) ⭐ 39,349 | 🐛 403 | 🌐 C++ | 📅 2026-03-11 - Fast key-value storage library.
     * [Redis](https://redis.io/) - In-memory data structure store, used as a database, cache and message broker.
     * [RocksDB](https://rocksdb.org/) - A library that provides an embeddable, persistent key-value store for fast storage.
-    * [Etcd](https://github.com/etcd-io/etcd) ⭐ 52,146 | 🐛 322 | 🌐 Go | 📅 2026-08-20 - Distributed reliable key-value store for the most critical data of a distributed system.
+    * [Etcd](https://github.com/etcd-io/etcd) ⭐ 52,154 | 🐛 322 | 🌐 Go | 📅 2026-08-20 - Distributed reliable key-value store for the most critical data of a distributed system.
 
 ## Observability & Monitoring
 
 *Observability, Monitoring, Metrics/Metrics collection and Alerting tools.*
 
-* [Glances](https://github.com/nicolargo/glances) ⭐ 33,396 | 🐛 109 | 🌐 Python | 📅 2026-08-18 - Monitoring information through a curses or Web based interface.
-* [cAdvisor](https://github.com/google/cadvisor) ⭐ 19,374 | 🐛 65 | 🌐 Go | 📅 2026-07-20 - Analyzes resource usage and performance characteristics of running containers.
-* [Keep](https://github.com/keephq/keep) ⭐ 12,229 | 🐛 569 | 🌐 Python | 📅 2026-08-20 - Open source alerting CLI for developers.
-* [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,272 | 🐛 53 | 🌐 Python | 📅 2026-08-21 - Cron monitoring tool.
-* [Cabot](https://github.com/arachnys/cabot) ⭐ 5,673 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-10 - Self-hosted, easily-deployable monitoring and alerts service.
-* [HolmesGPT](https://github.com/robusta-dev/holmesgpt) ⭐ 3,117 | 🐛 395 | 🌐 Python | 📅 2026-08-21 - Open Source AI assistant that can investigate alerts and find root cause automatically.
+* [Glances](https://github.com/nicolargo/glances) ⭐ 33,404 | 🐛 103 | 🌐 Python | 📅 2026-08-22 - Monitoring information through a curses or Web based interface.
+* [cAdvisor](https://github.com/google/cadvisor) ⭐ 19,375 | 🐛 63 | 🌐 Go | 📅 2026-07-20 - Analyzes resource usage and performance characteristics of running containers.
+* [Keep](https://github.com/keephq/keep) ⭐ 12,232 | 🐛 572 | 🌐 Python | 📅 2026-08-22 - Open source alerting CLI for developers.
+* [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,278 | 🐛 53 | 🌐 Python | 📅 2026-08-21 - Cron monitoring tool.
+* [Cabot](https://github.com/arachnys/cabot) ⭐ 5,674 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-10 - Self-hosted, easily-deployable monitoring and alerts service.
+* [HolmesGPT](https://github.com/robusta-dev/holmesgpt) ⭐ 3,119 | 🐛 395 | 🌐 Python | 📅 2026-08-21 - Open Source AI assistant that can investigate alerts and find root cause automatically.
 * [Alerta](https://github.com/alerta/alerta) ⭐ 2,527 | 🐛 31 | 🌐 Python | 📅 2026-06-19 - Scalable, minimal configuration and visualization monitoring system.
 * [ElastiFlow](https://github.com/robcowart/elastiflow) ⚠️ Archived - Network flow monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
 * [Amon](https://github.com/amonapp/amon) ⭐ 1,324 | 🐛 37 | 🌐 Python | 📅 2022-07-01 - Modern server monitoring platform.
 * [Shinken](https://github.com/shinken-solutions/shinken) ⭐ 1,136 | 🐛 228 | 🌐 Python | 📅 2024-04-26 - Monitoring framework.
 * [Grai](https://github.com/grai-io/grai-core) ⭐ 315 | 🐛 51 | 🌐 Python | 📅 2026-01-30 - Open source observability integrating data impact analysis into CI.
-* [Globalping CLI](https://github.com/jsdelivr/globalping-cli) ⭐ 279 | 🐛 6 | 🌐 Go | 📅 2026-08-19 - Run network commands like ping, traceroute and mtr from hundreds of global locations.
+* [Globalping CLI](https://github.com/jsdelivr/globalping-cli) ⭐ 280 | 🐛 6 | 🌐 Go | 📅 2026-08-19 - Run network commands like ping, traceroute and mtr from hundreds of global locations.
 * [Steampipe](https://steampipe.io/) - The universal SQL interface for any cloud API, & cloud intelligence dashboards extensible w/ HCL+SQL.
 * [Sensu](https://sensu.io/) - Simple. Scalable. Multi-cloud monitoring.
 * [Icinga](https://icinga.com/) - Monitors availability and performance, gives you simple access to relevant data and raises alerts.
@@ -342,8 +342,8 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
   * [Netdata](https://www.netdata.cloud/) - Instantly diagnose slowdowns and anomalies in your infrastructure.
   * [Autometrics](https://autometrics.dev/) - An open-source micro framework for observability.
 * Logs Management
-  * [Loki](https://github.com/grafana/loki) ⭐ 28,773 | 🐛 1,721 | 🌐 Go | 📅 2026-08-21 - Horizontally-scalable, highly available, multi-tenant log aggregation system inspired by Prometheus.
-  * [Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,113 | 🐛 2,053 | 🌐 Java | 📅 2026-08-21 - Free and open source log management.
+  * [Loki](https://github.com/grafana/loki) ⭐ 28,773 | 🐛 1,725 | 🌐 Go | 📅 2026-08-22 - Horizontally-scalable, highly available, multi-tenant log aggregation system inspired by Prometheus.
+  * [Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,112 | 🐛 2,053 | 🌐 Java | 📅 2026-08-21 - Free and open source log management.
   * [Anthracite](https://github.com/Dieterbe/anthracite) ⭐ 295 | 🐛 12 | 🌐 JavaScript | 📅 2016-12-13 - An event/change logging/management app.
   * [Logstash](https://www.elastic.co/products/logstash#) - Collect, parse, transform logs.
   * [Fluentd](https://www.fluentd.org/) - Data collector for unified logging layer.
@@ -351,8 +351,8 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
   * [Heka](https://hekad.readthedocs.io/en/latest/#) - Stream processing software system.
   * [Kibana](https://www.elastic.co/products/kibana) - Explore, visualize, discover data.
 * Status
-  * [Cachet](https://github.com/CachetHQ/Cachet) ⭐ 15,225 | 🐛 6 | 🌐 PHP | 📅 2026-08-17 - Beautiful and powerful open-source status page system.
-  * [Oxmgr](https://github.com/Vladimir-Urik/OxMgr) ⭐ 229 | 🐛 17 | 🌐 Rust | 📅 2026-08-17 - Lightweight Rust process manager and PM2 alternative. 42x faster crash recovery, 19x lower memory usage. Manages Node.js, Python, Go, and any executable on Linux, macOS, and Windows.
+  * [Cachet](https://github.com/CachetHQ/Cachet) ⭐ 15,224 | 🐛 6 | 🌐 PHP | 📅 2026-08-17 - Beautiful and powerful open-source status page system.
+  * [Oxmgr](https://github.com/Vladimir-Urik/OxMgr) ⭐ 231 | 🐛 17 | 🌐 Rust | 📅 2026-08-17 - Lightweight Rust process manager and PM2 alternative. 42x faster crash recovery, 19x lower memory usage. Manages Node.js, Python, Go, and any executable on Linux, macOS, and Windows.
   * [StatusPal](https://statuspal.io/?utm_source=github.com\&utm_medium=referral\&utm_campaign=awesome-devops) - Communicate incidents and maintenance effectively with a beautiful hosted status page.
   * [Instatus](https://instatus.com) - Quick and beautiful status page.
 
@@ -360,7 +360,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 *Service Discovery, Service Mesh and Failure detection tools.*
 
-* [Linkerd](https://github.com/linkerd/linkerd2) ⭐ 11,478 | 🐛 203 | 🌐 Go | 📅 2026-08-21 - Service mesh for Kubernetes and beyond.
+* [Linkerd](https://github.com/linkerd/linkerd2) ⭐ 11,479 | 🐛 199 | 🌐 Go | 📅 2026-08-21 - Service mesh for Kubernetes and beyond.
 * [Doozerd](https://github.com/ha/doozerd) ⭐ 3,251 | 🐛 27 | 🌐 Go | 📅 2016-03-16 - A consistent distributed data store.
 * [Consul](https://www.hashicorp.com/products/consul/) - Connect and secure any service.
 * [Serf](https://www.serf.io/) - Decentralized cluster membership, failure detection, and orchestration.
@@ -374,10 +374,10 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 *The discipline of experimenting on a distributed system in order to build confidence in the system's capability to withstand turbulent conditions in production.*
 
-* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,085 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
-* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,273 | 🐛 105 | 🌐 Go | 📅 2026-08-04 - Simulate network and system conditions for chaos and resiliency testing.
-* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,850 | 🐛 551 | 🌐 Go | 📅 2026-08-18 - A Chaos Engineering Platform for Kubernetes.
-* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,601 | 🐛 416 | 🌐 Go | 📅 2026-07-31 - Litmus enables teams to identify weaknesses in infrastructures.
+* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,086 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures.
+* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,275 | 🐛 105 | 🌐 Go | 📅 2026-08-04 - Simulate network and system conditions for chaos and resiliency testing.
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,853 | 🐛 551 | 🌐 Go | 📅 2026-08-18 - A Chaos Engineering Platform for Kubernetes.
+* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,600 | 🐛 416 | 🌐 Go | 📅 2026-07-31 - Litmus enables teams to identify weaknesses in infrastructures.
 * [Pumba](https://github.com/alexei-led/pumba) ⭐ 3,120 | 🐛 20 | 🌐 Go | 📅 2026-07-27 - Chaos testing, network emulation and stress testing tool for containers.
 * [Chaos Toolkit](https://github.com/chaostoolkit) - The Open Source Platform for Chaos Engineering.
 
@@ -385,10 +385,10 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 *API Gateway, Service Proxy and Service Management tools.*
 
-* [Cilium](https://github.com/cilium/cilium) ⭐ 24,992 | 🐛 1,105 | 🌐 Go | 📅 2026-08-21 - API aware networking and security using BPF and XDP.
-* [API Umbrella](https://github.com/NREL/api-umbrella) ⭐ 2,194 | 🐛 256 | 🌐 Ruby | 📅 2026-08-17 - Proxy that sits in front of your APIs, API management platform.
+* [Cilium](https://github.com/cilium/cilium) ⭐ 24,993 | 🐛 1,108 | 🌐 Go | 📅 2026-08-22 - API aware networking and security using BPF and XDP.
+* [API Umbrella](https://github.com/NREL/api-umbrella) ⭐ 2,194 | 🐛 259 | 🌐 Ruby | 📅 2026-08-17 - Proxy that sits in front of your APIs, API management platform.
 * [Gloo](https://github.com/solo-io/gloo) ⭐ 170 | 🐛 1,867 | 🌐 Go | 📅 2026-08-21 - Feature-rich, Kubernetes-native ingress controller, and next-generation API gateway.
-* [SBproxy](https://github.com/soapbucket/sbproxy) ⭐ 49 | 🐛 2 | 🌐 Rust | 📅 2026-08-21 - AI gateway and reverse proxy with LLM routing, rate limiting, and YAML config.
+* [SBproxy](https://github.com/soapbucket/sbproxy) ⭐ 50 | 🐛 0 | 🌐 Rust | 📅 2026-08-22 - AI gateway and reverse proxy with LLM routing, rate limiting, and YAML config.
 * [Ambassador](https://www.getambassador.io/) - Kubernetes-Native API Gateway built on the Envoy Proxy.
 * [Kong](https://konghq.com/) - Connect all your microservices and APIs with the industry’s most performant, scalable and flexible API platform.
 * [Tyk](https://tyk.io/) - API and service management platform.
@@ -410,7 +410,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 *Distributed messaging platforms and Queues software.*
 
 * [Faktory](https://github.com/contribsys/faktory) ⭐ 6,140 | 🐛 23 | 🌐 Go | 📅 2026-08-18 - Repository for background jobs within your application.
-* [Dkron](https://github.com/distribworks/dkron) ⭐ 4,726 | 🐛 36 | 🌐 Go | 📅 2026-08-21 - Distributed, fault tolerant job scheduling system.
+* [Dkron](https://github.com/distribworks/dkron) ⭐ 4,727 | 🐛 36 | 🌐 Go | 📅 2026-08-21 - Distributed, fault tolerant job scheduling system.
 * [Rabbitmq](https://www.rabbitmq.com/) - Message broker.
 * [Kafka](http://kafka.apache.org/) - Building real-time data pipelines and streaming apps.
 * [Activemq](http://activemq.apache.org/) - Multi-Protocol messaging.
@@ -445,9 +445,9 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 *Security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.*
 
-* [Infisical](https://github.com/Infisical/infisical) ⭐ 28,877 | 🐛 738 | 🌐 TypeScript | 📅 2026-08-21 - Open source end-to-end encrypted secrets sync for teams and infrastructure.
-* [Sops](https://github.com/mozilla/sops) ⭐ 22,880 | 🐛 441 | 🌐 Go | 📅 2026-08-17 - Simple and flexible tool for managing secrets.
-* [Git Secret](https://github.com/sobolevn/git-secret) ⭐ 4,036 | 🐛 253 | 🌐 Shell | 📅 2026-08-11 - A bash-tool to store your private data inside a git repository.
+* [Infisical](https://github.com/Infisical/infisical) ⭐ 28,889 | 🐛 743 | 🌐 TypeScript | 📅 2026-08-22 - Open source end-to-end encrypted secrets sync for teams and infrastructure.
+* [Sops](https://github.com/mozilla/sops) ⭐ 22,893 | 🐛 441 | 🌐 Go | 📅 2026-08-17 - Simple and flexible tool for managing secrets.
+* [Git Secret](https://github.com/sobolevn/git-secret) ⭐ 4,037 | 🐛 254 | 🌐 Shell | 📅 2026-08-11 - A bash-tool to store your private data inside a git repository.
 * [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) ⭐ 685 | 🐛 15 | 🌐 Go | 📅 2026-08-13 - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 * [Lade](https://github.com/zifeo/lade) ⭐ 126 | 🐛 1 | 🌐 Rust | 📅 2026-08-20 - Automatically load secrets from your preferred vault as environment variables.
 * [Vault](https://www.hashicorp.com/products/vault/) - Manage secrets and protect sensitive data.
@@ -457,24 +457,24 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 *Validating, lint and best practice in term of Security on code or infrastructure.*
 
-* [checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,966 | 🐛 168 | 🌐 Python | 📅 2026-08-20 - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages.
+* [checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,968 | 🐛 164 | 🌐 Python | 📅 2026-08-20 - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages.
 * [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC with API for CI/CD integration.
 
 ## Sharing
 
 *A collection of tools to help with sharing knowledge and telling the story.*
 
-* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,037 | 🐛 403 | 🌐 TypeScript | 📅 2026-08-21 - Easy to maintain open source documentation websites.
-* [Docsify](https://github.com/docsifyjs/docsify/) ⭐ 31,468 | 🐛 94 | 🌐 JavaScript | 📅 2026-08-21 - A magical documentation site generator.
-* [Gitbook](https://github.com/GitbookIO/gitbook) ⭐ 29,004 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-21 - Modern documentation format and toolchain using Git and Markdown.
-* [MkDocs](https://github.com/mkdocs/mkdocs/) ⭐ 22,364 | 🐛 186 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown.
+* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,046 | 🐛 401 | 🌐 TypeScript | 📅 2026-08-22 - Easy to maintain open source documentation websites.
+* [Docsify](https://github.com/docsifyjs/docsify/) ⭐ 31,470 | 🐛 94 | 🌐 JavaScript | 📅 2026-08-22 - A magical documentation site generator.
+* [Gitbook](https://github.com/GitbookIO/gitbook) ⭐ 29,005 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-21 - Modern documentation format and toolchain using Git and Markdown.
+* [MkDocs](https://github.com/mkdocs/mkdocs/) ⭐ 22,366 | 🐛 186 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown.
 * [OneCompiler](https://onecompiler.com/) - Allow users to write, run, and share code online in over 70 programming languages and databases.
 
 ## VPN
 
 *VPN, routing and firewall.*
 
-* [Algo](https://github.com/trailofbits/algo) ⭐ 30,357 | 🐛 79 | 🌐 Python | 📅 2026-08-19 - Set up a personal VPN in the cloud.
+* [Algo](https://github.com/trailofbits/algo) ⭐ 30,358 | 🐛 79 | 🌐 Python | 📅 2026-08-19 - Set up a personal VPN in the cloud.
 * [Streisand](https://github.com/StreisandEffect/streisand) ⚠️ Archived - Sets up a new VPN service nearly automatically.
 * [Sshuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,526 | 🐛 212 | 🌐 Python | 📅 2026-08-20 - Transparent proxy server that works as a poor man's VPN.
 * [Freelan](https://github.com/freelan-developers/freelan) ⭐ 1,376 | 🐛 49 | 🌐 C++ | 📅 2023-07-31 - A peer-to-peer, secure, easy-to-setup, multi-platform, open-source, highly-configurable VPN software.
@@ -526,8 +526,8 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/wmariuss/awesome-devops/blob/main/docs/contribution.md) ⭐ 4,337 | 🐛 175 | 🌐 Python | 📅 2026-07-24.
+Your contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/wmariuss/awesome-devops/blob/main/docs/contribution.md) ⭐ 4,338 | 🐛 175 | 🌐 Python | 📅 2026-07-24.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
