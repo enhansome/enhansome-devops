@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+            "homepage": "https://localstack.cloud",
             "id": 71948498,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-23T08:52:01Z",
+            "open_issues": 0,
             "owner": "localstack",
             "repo": "localstack",
-            "stars": 65142
+            "stars": 65142,
+            "topics": [
+              "aws",
+              "cloud",
+              "continuous-integration",
+              "developer-tools",
+              "localstack",
+              "python",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -26,12 +39,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,396 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.",
+            "homepage": "https://fakecloud.dev",
             "id": 1201301111,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T07:48:15Z",
+            "open_issues": 5,
             "owner": "faiscadev",
             "repo": "fakecloud",
-            "stars": 536
+            "stars": 536,
+            "topics": [
+              "ai-testing",
+              "aws",
+              "aws-bedrock",
+              "aws-emulator",
+              "aws-sdk",
+              "aws-testing",
+              "bedrock",
+              "bedrock-emulator",
+              "cognito",
+              "dynamodb",
+              "emulator",
+              "integration-testing",
+              "lambda",
+              "llm-testing",
+              "localstack-alternative",
+              "moto-alternative",
+              "s3",
+              "sns",
+              "sqs",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -48,12 +87,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Define and run multi-container applications with Docker",
+            "homepage": "https://docs.docker.com/compose/",
             "id": 15045751,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:09:06Z",
+            "open_issues": 108,
             "owner": "docker",
             "repo": "compose",
-            "stars": 38072
+            "stars": 38072,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "go",
+              "golang",
+              "orchestration"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -64,12 +114,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Podman: A tool for managing OCI containers and pods.",
+            "homepage": "https://podman.io",
             "id": 109145553,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:35:01Z",
+            "open_issues": 1143,
             "owner": "podman-container-tools",
             "repo": "podman",
-            "stars": 32724
+            "stars": 32724,
+            "topics": [
+              "containers",
+              "docker",
+              "kubernetes",
+              "linux",
+              "oci"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -80,12 +141,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.",
+            "homepage": "http://piku.github.io",
             "id": 54778964,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T03:04:24Z",
+            "open_issues": 5,
             "owner": "piku",
             "repo": "piku",
-            "stars": 6603
+            "stars": 6603,
+            "topics": [
+              "arm",
+              "heroku",
+              "nodejs",
+              "paas",
+              "python",
+              "raspberry-pi",
+              "raspbian",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -96,12 +171,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit",
+            "homepage": null,
             "id": 19360616,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-06-11T09:36:02Z",
+            "open_issues": 0,
             "owner": "docker-archive",
             "repo": "classicswarm",
-            "stars": 5728
+            "stars": 5728,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -112,12 +192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AppScale is an easy-to-manage serverless platform for building and running scalable web and mobile applications on any infrastructure.",
+            "homepage": "https://www.appscale.com/community/",
             "id": 3803067,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-22T02:14:44Z",
+            "open_issues": 52,
             "owner": "AppScale",
             "repo": "gts",
-            "stars": 2422
+            "stars": 2422,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -134,12 +219,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agent skills for deploying applications to Kubernetes with Qovery. Works with OpenCode, Claude Code, and any agent supporting SKILL.md.",
+            "homepage": null,
             "id": 1215089312,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-27T16:50:45Z",
+            "open_issues": 3,
             "owner": "Qovery",
             "repo": "qovery-skills",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "deployment",
+              "devops",
+              "infrastructure-as-code",
+              "kubernetes",
+              "opencode",
+              "qovery",
+              "skill",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -156,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Container & Artifact Repository",
+            "homepage": null,
             "id": 35403820,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-12T08:04:56Z",
+            "open_issues": 11,
             "owner": "Huawei",
             "repo": "dockyard",
-            "stars": 278
+            "stars": 278,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -178,12 +284,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for managing DNS across multiple providers",
+            "homepage": null,
             "id": 84977146,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:59:26Z",
+            "open_issues": 5,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3750
+            "stars": 3750,
+            "topics": [
+              "dns",
+              "infrastructure-as-code",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -194,12 +309,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ignite a Firecracker microVM",
+            "homepage": "https://ignite.readthedocs.org",
             "id": 179326472,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-07T17:28:58Z",
+            "open_issues": 171,
             "owner": "weaveworks",
             "repo": "ignite",
-            "stars": 3529
+            "stars": 3529,
+            "topics": [
+              "cloud-native",
+              "containers",
+              "docker",
+              "firecracker",
+              "kvm",
+              "oci"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -210,12 +337,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).",
+            "homepage": "https://www.selefra.io",
             "id": 617067663,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2023-08-30T04:35:10Z",
+            "open_issues": 0,
             "owner": "selefra",
             "repo": "selefra",
-            "stars": 546
+            "stars": 546,
+            "topics": [
+              "aws",
+              "azure",
+              "chatgpt",
+              "cloud",
+              "cspm",
+              "devops",
+              "finops",
+              "gcp",
+              "golang",
+              "google",
+              "infrastructure-as-code",
+              "kubernetes",
+              "openai",
+              "policy-as-code",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -232,12 +380,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Python version management",
+            "homepage": null,
             "id": 5625464,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:36:28Z",
+            "open_issues": 54,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45056
+            "stars": 45056,
+            "topics": [
+              "python",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -248,12 +404,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform version manager",
+            "homepage": null,
             "id": 64857500,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-01T17:32:52Z",
+            "open_issues": 32,
             "owner": "tfutils",
             "repo": "tfenv",
-            "stars": 4966
+            "stars": 4966,
+            "topics": [
+              "bash",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -264,12 +428,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulk port forwarding Kubernetes services for local development.",
+            "homepage": "http://kubefwd.com/",
             "id": 143650971,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T18:39:34Z",
+            "open_issues": 11,
             "owner": "txn2",
             "repo": "kubefwd",
-            "stars": 4164
+            "stars": 4164,
+            "topics": [
+              "api-rest",
+              "developer-tools",
+              "devops",
+              "devops-tools",
+              "devtools",
+              "k8s",
+              "kubefwd",
+              "kubernetes",
+              "kubernetes-clusters",
+              "kubernetes-namespace",
+              "mcp-server",
+              "networking",
+              "port-forward",
+              "port-forwarding",
+              "proxy"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -280,12 +465,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager",
+            "homepage": "https://tofuutils.github.io/tenv/",
             "id": 739378779,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T09:46:49Z",
+            "open_issues": 45,
             "owner": "tofuutils",
             "repo": "tenv",
-            "stars": 1429
+            "stars": 1429,
+            "topics": [
+              "go",
+              "hacktoberfest",
+              "hacktoberfest2024",
+              "hacktoberfest2025",
+              "hashicorp",
+              "hashicorp-terraform",
+              "iac",
+              "opentofu",
+              "tenv",
+              "terraform",
+              "tfenv",
+              "tofu",
+              "tofuenv",
+              "up-for-grabs"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -296,12 +501,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 18 cloud providers, monitors live SSH tunnels and manages Docker and Podman containers fleet-wide. Plus scp, Vault SSH certs and an MCP server for AI agents.",
+            "homepage": "https://getpurple.sh",
             "id": 1161891767,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:22:42Z",
+            "open_issues": 4,
             "owner": "erickochen",
             "repo": "purple",
-            "stars": 660
+            "stars": 660,
+            "topics": [
+              "cli",
+              "cloud-sync",
+              "devops",
+              "docker",
+              "hashicorp-vault",
+              "homelab",
+              "mcp",
+              "podman",
+              "ratatui",
+              "rust",
+              "ssh",
+              "ssh-bookmarks",
+              "ssh-client",
+              "ssh-config",
+              "ssh-config-editor",
+              "ssh-manager",
+              "ssh-tunnel",
+              "terminal",
+              "termius-alternative",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -312,12 +543,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command‑line and Python utility that alerts on command completion, code execution and system monitoring events",
+            "homepage": null,
             "id": 971123250,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-07T08:35:57Z",
+            "open_issues": 8,
             "owner": "navig-me",
             "repo": "telert",
-            "stars": 287
+            "stars": 287,
+            "topics": [
+              "alert",
+              "cli",
+              "command-line",
+              "discord",
+              "email",
+              "fly-io",
+              "microsoft-teams",
+              "notification",
+              "pushover",
+              "railway",
+              "render",
+              "replit",
+              "rest-api",
+              "slack",
+              "slack-bot",
+              "teams",
+              "telegram"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -328,12 +582,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "k9s-inspired TUI for AWS resource management with vim-style navigation",
+            "homepage": null,
             "id": 1116285148,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T16:29:51Z",
+            "open_issues": 6,
             "owner": "clawscli",
             "repo": "claws",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "amazon-web-services",
+              "aws",
+              "bubbletea",
+              "cli",
+              "go",
+              "k9s-like",
+              "management-console",
+              "resource-management",
+              "terminal",
+              "terminal-ui",
+              "tui",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -355,12 +627,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
+                "homepage": "https://www.harness.io/open-source",
                 "id": 16607898,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:12:09Z",
+                "open_issues": 103,
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38155
+                "stars": 38157,
+                "topics": [
+                  "build-automation",
+                  "build-pipelines",
+                  "ci",
+                  "ci-cd",
+                  "code-repository",
+                  "continuous-delivery",
+                  "continuous-integration",
+                  "docker",
+                  "git",
+                  "go",
+                  "hacktoberfest",
+                  "scm"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             },
@@ -371,12 +661,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Successor: https://github.com/fluxcd/flux2",
+                "homepage": "https://fluxcd.io",
                 "id": 62799996,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-01T15:16:50Z",
+                "open_issues": 0,
                 "owner": "fluxcd",
                 "repo": "flux",
-                "stars": 6855
+                "stars": 6855,
+                "topics": [
+                  "gitops",
+                  "kubernetes",
+                  "legacy"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             },
@@ -387,12 +686,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",
+                "homepage": "https://docs.flagger.app/main",
                 "id": 149515625,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T11:28:14Z",
+                "open_issues": 387,
                 "owner": "fluxcd",
                 "repo": "flagger",
-                "stars": 5396
+                "stars": 5396,
+                "topics": [
+                  "ab-testing",
+                  "aws-appmesh",
+                  "canary",
+                  "contour",
+                  "gitops",
+                  "gloo",
+                  "istio",
+                  "kubernetes",
+                  "linkerd",
+                  "nginx",
+                  "progressive-delivery"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             },
@@ -403,12 +719,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All-in-one delivery platform for AI-driven development.",
+                "homepage": "https://semaphore.io",
                 "id": 920024200,
                 "language": "Elixir",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:59:19Z",
+                "open_issues": 173,
                 "owner": "semaphoreio",
                 "repo": "semaphore",
-                "stars": 1587
+                "stars": 1587,
+                "topics": [
+                  "build-pipelines",
+                  "cd",
+                  "ci",
+                  "continuous-delivery",
+                  "continuous-integration",
+                  "elixir",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             },
@@ -419,12 +748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Distributed Continuous Integration System from MongoDB",
+                "homepage": "https://docs.devprod.prod.corp.mongodb.com/evergreen/Home/",
                 "id": 36385798,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-29T00:25:32Z",
+                "open_issues": 21,
                 "owner": "evergreen-ci",
                 "repo": "evergreen",
-                "stars": 450
+                "stars": 450,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             }
@@ -443,12 +777,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Effective June 1, 2021: Phabricator is no longer actively maintained.",
+            "homepage": "http://phacility.com/phabricator/",
             "id": 1280180,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-12T10:28:40Z",
+            "open_issues": 3,
             "owner": "phacility",
             "repo": "phabricator",
-            "stars": 12298
+            "stars": 12298,
+            "topics": [
+              "git",
+              "hg",
+              "phabricator",
+              "php",
+              "svn"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -459,12 +804,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pure java git solution",
+            "homepage": "http://gitblit.com",
             "id": 1937202,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-14T17:22:23Z",
+            "open_issues": 254,
             "owner": "gitblit-org",
             "repo": "gitblit",
-            "stars": 2358
+            "stars": 2358,
+            "topics": [
+              "git",
+              "gitblit"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -481,12 +834,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.",
+            "homepage": null,
             "id": 26516210,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:54:26Z",
+            "open_issues": 188,
             "owner": "certbot",
             "repo": "certbot",
-            "stars": 33219
+            "stars": 33220,
+            "topics": [
+              "acme",
+              "acme-client",
+              "certbot",
+              "certificate",
+              "letsencrypt",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -497,12 +862,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically provision and manage TLS certificates in Kubernetes",
+            "homepage": "https://cert-manager.io",
             "id": 92313258,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:55:55Z",
+            "open_issues": 248,
             "owner": "cert-manager",
             "repo": "cert-manager",
-            "stars": 14055
+            "stars": 14055,
+            "topics": [
+              "certificate",
+              "crd",
+              "hacktoberfest",
+              "kubernetes",
+              "letsencrypt",
+              "tls"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -519,12 +896,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.",
+            "homepage": "http://nicolargo.github.io/glances/",
             "id": 2909429,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T17:06:35Z",
+            "open_issues": 110,
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33459
+            "stars": 33460,
+            "topics": [
+              "monitoring",
+              "multi-platform",
+              "python",
+              "restful",
+              "restful-api",
+              "system",
+              "terminal",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -535,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyzes resource usage and performance characteristics of running containers.",
+            "homepage": null,
             "id": 20653934,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-20T21:23:51Z",
+            "open_issues": 62,
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19384
+            "stars": 19385,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -551,12 +947,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source AIOps and alert management platform",
+            "homepage": "https://keephq.dev",
             "id": 597502256,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T07:26:38Z",
+            "open_issues": 579,
             "owner": "keephq",
             "repo": "keep",
-            "stars": 12260
+            "stars": 12260,
+            "topics": [
+              "aiops",
+              "alarm",
+              "alarms",
+              "alerting",
+              "alerts",
+              "monitoring",
+              "monitoring-tool",
+              "python",
+              "python3",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -567,12 +979,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source cron job and background task monitoring service, written in Python & Django",
+            "homepage": "https://healthchecks.io",
             "id": 38067078,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T08:58:54Z",
+            "open_issues": 53,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10292
+            "stars": 10292,
+            "topics": [
+              "cron",
+              "cron-jobs",
+              "devops",
+              "django",
+              "monitoring",
+              "ops"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -583,12 +1007,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty",
+            "homepage": null,
             "id": 15680717,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-10T09:23:26Z",
+            "open_issues": 166,
             "owner": "arachnys",
             "repo": "cabot",
-            "stars": 5675
+            "stars": 5675,
+            "topics": [
+              "alerting",
+              "devops",
+              "django",
+              "graphite",
+              "monitoring",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -599,12 +1035,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SRE Agent - CNCF Sandbox Project",
+            "homepage": "https://holmesgpt.dev/",
             "id": 808146034,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T07:26:34Z",
+            "open_issues": 401,
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3162
+            "stars": 3162,
+            "topics": [
+              "aiops",
+              "chatbot",
+              "chatops",
+              "devops",
+              "devops-tools",
+              "incident",
+              "incident-management",
+              "incident-response",
+              "jira",
+              "kubernetes",
+              "llm",
+              "llm-agent",
+              "llm-framework",
+              "llms",
+              "monitoring",
+              "observability",
+              "prometheus",
+              "site-reliability-engineering",
+              "slack",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -615,12 +1077,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alerta monitoring system",
+            "homepage": "https://alerta.io",
             "id": 3877327,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-19T19:34:29Z",
+            "open_issues": 32,
             "owner": "alerta",
             "repo": "alerta",
-            "stars": 2528
+            "stars": 2528,
+            "topics": [
+              "alerta",
+              "api-server",
+              "mongodb",
+              "monitoring",
+              "postgres"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -631,12 +1104,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack",
+            "homepage": null,
             "id": 90005814,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-22T22:03:16Z",
+            "open_issues": 1,
             "owner": "robcowart",
             "repo": "elastiflow",
-            "stars": 2511
+            "stars": 2511,
+            "topics": [
+              "elasticsearch",
+              "elk",
+              "ipfix",
+              "kibana",
+              "logstash",
+              "netflow",
+              "sflow"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -647,12 +1133,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amon is a modern server monitoring platform.",
+            "homepage": "https://docs.amon.cx",
             "id": 899202,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2022-07-01T16:02:12Z",
+            "open_issues": 37,
             "owner": "martinrusev",
             "repo": "amon",
-            "stars": 1324
+            "stars": 1324,
+            "topics": [
+              "agent",
+              "alarm",
+              "alerting",
+              "dashboard",
+              "health-check",
+              "metrics",
+              "monitoring",
+              "performance",
+              "statsd",
+              "system-information"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -663,12 +1165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible and scalable monitoring framework",
+            "homepage": "http://www.shinken-monitoring.org",
             "id": 1105519,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-04-26T08:16:18Z",
+            "open_issues": 228,
             "owner": "shinken-solutions",
             "repo": "shinken",
-            "stars": 1136
+            "stars": 1136,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -679,12 +1186,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.grai.io",
             "id": 501725302,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2026-01-30T20:28:25Z",
+            "open_issues": 51,
             "owner": "grai-io",
             "repo": "grai-core",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "data",
+              "data-lineage",
+              "data-science",
+              "dataengineering",
+              "datalineage",
+              "dbt",
+              "django",
+              "fivetran",
+              "hacktoberfest",
+              "mssql",
+              "mysql",
+              "open-source",
+              "parquet",
+              "postgresql",
+              "python",
+              "redshift",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -695,12 +1225,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple CLI tool to run networking commands remotely from hundreds of globally distributed servers",
+            "homepage": "https://globalping.io/cli",
             "id": 474372173,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T14:53:59Z",
+            "open_issues": 7,
             "owner": "jsdelivr",
             "repo": "globalping-cli",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "devops",
+              "dig",
+              "globalping",
+              "ping",
+              "sysops",
+              "system-administration",
+              "traceroute"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -716,12 +1262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.",
+                "homepage": "http://freeboard.io",
                 "id": 11726302,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-23T21:14:02Z",
+                "open_issues": 166,
                 "owner": "Freeboard",
                 "repo": "freeboard",
-                "stars": 6505
+                "stars": 6505,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             },
@@ -732,12 +1283,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The system statistics collection daemon. Please send Pull Requests here!",
+                "homepage": "http://collectd.org",
                 "id": 3208640,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-29T12:58:43Z",
+                "open_issues": 785,
                 "owner": "collectd",
                 "repo": "collectd",
-                "stars": 3363
+                "stars": 3363,
+                "topics": [
+                  "amqp-client",
+                  "c",
+                  "collectd",
+                  "cpu-monitoring",
+                  "graphite-client",
+                  "influxdb-client",
+                  "kafka-client",
+                  "memory-utilization",
+                  "metrics",
+                  "metrics-gathering",
+                  "metrics-gathering-daemon",
+                  "metrics-server",
+                  "mqtt-client",
+                  "mqtt-server",
+                  "prometheus-exporter",
+                  "redis-client",
+                  "riemann-client",
+                  "rrdtool",
+                  "snmp",
+                  "stackdriver-agent"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             },
@@ -748,12 +1325,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Time series data visualization software",
+                "homepage": "https://facette.io/",
                 "id": 2155566,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-10-05T06:11:23Z",
+                "open_issues": 41,
                 "owner": "facette",
                 "repo": "facette",
-                "stars": 1158
+                "stars": 1158,
+                "topics": [
+                  "collectd",
+                  "graphite",
+                  "influxdb",
+                  "kairosdb",
+                  "rrdtool",
+                  "timeseries"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             }
@@ -771,12 +1360,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like Prometheus, but for logs.",
+                "homepage": "https://grafana.com/oss/loki",
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-29T00:24:39Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T03:25:58Z",
+                "open_issues": 1729,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28799
+                "stars": 28799,
+                "topics": [
+                  "cloudnative",
+                  "grafana",
+                  "hacktoberfest",
+                  "logging",
+                  "loki",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             },
@@ -787,12 +1388,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and open log management",
+                "homepage": "https://www.graylog.org",
                 "id": 671825,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:50:42Z",
+                "open_issues": 2057,
                 "owner": "Graylog2",
                 "repo": "graylog2-server",
-                "stars": 8120
+                "stars": 8120,
+                "topics": [
+                  "amqp",
+                  "gelf",
+                  "graylog",
+                  "hacktoberfest",
+                  "kafka",
+                  "log-analysis",
+                  "log-collector",
+                  "log-management",
+                  "log-viewer",
+                  "logging",
+                  "logging-server",
+                  "secure-logging",
+                  "security",
+                  "siem",
+                  "syslog"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             },
@@ -803,12 +1425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an event / change logging/managament app",
+                "homepage": null,
                 "id": 6646939,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2016-12-13T18:16:07Z",
+                "open_issues": 12,
                 "owner": "Dieterbe",
                 "repo": "anthracite",
-                "stars": 295
+                "stars": 295,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             }
@@ -826,12 +1453,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚦 Cachet, the open source, self-hosted status page system.",
+                "homepage": "https://cachethq.io",
                 "id": 26730195,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T07:09:48Z",
+                "open_issues": 6,
                 "owner": "cachethq",
                 "repo": "cachet",
-                "stars": 15229
+                "stars": 15229,
+                "topics": [
+                  "cachet",
+                  "laravel",
+                  "php",
+                  "self-hosted",
+                  "selfhosted",
+                  "status-page",
+                  "statuspages"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             },
@@ -842,12 +1482,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.",
+                "homepage": "https://oxmgr.empellio.com",
                 "id": 1167442477,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-24T05:58:51Z",
+                "open_issues": 17,
                 "owner": "Vladimir-Urik",
                 "repo": "OxMgr",
-                "stars": 238
+                "stars": 239,
+                "topics": [
+                  "cli",
+                  "daemon",
+                  "devops",
+                  "devops-tools",
+                  "ecosystem",
+                  "ipc",
+                  "linux",
+                  "macos",
+                  "nodejs",
+                  "pm2",
+                  "pm2-alternative",
+                  "production",
+                  "rust",
+                  "selfhosted",
+                  "system-tools",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T02:28:12.966Z"
             }
@@ -866,12 +1528,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
+            "homepage": "https://linkerd.io",
             "id": 113106184,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T03:02:45Z",
+            "open_issues": 211,
             "owner": "linkerd",
             "repo": "linkerd2",
-            "stars": 11483
+            "stars": 11483,
+            "topics": [
+              "cloud-native",
+              "golang",
+              "kubernetes",
+              "linkerd",
+              "rust",
+              "service-mesh"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -882,12 +1556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A consistent distributed data store.",
+            "homepage": null,
             "id": 1633914,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2016-03-16T04:01:32Z",
+            "open_issues": 27,
             "owner": "ha",
             "repo": "doozerd",
-            "stars": 3251
+            "stars": 3251,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -904,12 +1583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+            "homepage": null,
             "id": 71297170,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-06T08:37:10Z",
+            "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17092
+            "stars": 17092,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -920,12 +1604,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+            "homepage": "https://github.com/shopify/toxiproxy",
             "id": 23664475,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:40:05Z",
+            "open_issues": 103,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12288
+            "stars": 12288,
+            "topics": [
+              "chaos",
+              "down",
+              "go",
+              "is",
+              "omg",
+              "proxy",
+              "resiliency",
+              "tcp-proxy",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -936,12 +1635,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Chaos Engineering Platform for Kubernetes.",
+            "homepage": "https://chaos-mesh.org",
             "id": 206213815,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T03:36:14Z",
+            "open_issues": 550,
             "owner": "chaos-mesh",
             "repo": "chaos-mesh",
-            "stars": 7859
+            "stars": 7859,
+            "topics": [
+              "chaos",
+              "chaos-engineering",
+              "chaos-experiments",
+              "chaos-mesh",
+              "chaos-testing",
+              "cloud-native",
+              "cncf",
+              "fault-injection",
+              "golang",
+              "kubernetes",
+              "microservices",
+              "operator",
+              "site-reliability-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -952,12 +1670,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q",
+            "homepage": "https://litmuschaos.io",
             "id": 85039965,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T10:16:40Z",
+            "open_issues": 398,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5603
+            "stars": 5603,
+            "topics": [
+              "chaos-engineering",
+              "chaos-experiments",
+              "chaos-testing",
+              "chaoshub",
+              "cloud-native",
+              "cncf",
+              "devops",
+              "fault-injection",
+              "fault-simulation",
+              "golang",
+              "google-summer-of-code",
+              "hacktoberfest",
+              "k8s",
+              "kubernetes",
+              "lfx",
+              "litmuschaos",
+              "operator-sdk",
+              "reliability-engineering",
+              "resilience-testing",
+              "site-reliability-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -968,12 +1712,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos testing, network emulation, and stress testing tool for containers",
+            "homepage": null,
             "id": 54481074,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T08:37:49Z",
+            "open_issues": 3,
             "owner": "alexei-led",
             "repo": "pumba",
-            "stars": 3141
+            "stars": 3141,
+            "topics": [
+              "chaos",
+              "chaos-engineering",
+              "chaos-monkey",
+              "chaos-testing",
+              "containerd",
+              "docker",
+              "fault-injection",
+              "golang",
+              "kubernetes",
+              "network-emulator",
+              "podman",
+              "podman-container",
+              "site-reliability-engineering",
+              "stress-ng",
+              "stress-testing",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -990,12 +1757,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eBPF-based Networking, Security, and Observability",
+            "homepage": "https://cilium.io",
             "id": 48109239,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:19:44Z",
+            "open_issues": 1084,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25022
+            "stars": 25022,
+            "topics": [
+              "bpf",
+              "cncf",
+              "cni",
+              "containers",
+              "ebpf",
+              "k8s",
+              "kernel",
+              "kubernetes",
+              "kubernetes-networking",
+              "loadbalancing",
+              "monitoring",
+              "networking",
+              "observability",
+              "security",
+              "troubleshooting",
+              "xdp"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1006,12 +1795,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source API management platform",
+            "homepage": null,
             "id": 5621246,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:23:45Z",
+            "open_issues": 257,
             "owner": "NatLabRockies",
             "repo": "api-umbrella",
-            "stars": 2196
+            "stars": 2196,
+            "topics": [
+              "api-gateway",
+              "api-management",
+              "api-manager",
+              "lua",
+              "luajit",
+              "nginx",
+              "openresty"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1022,12 +1824,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Cloud-Native API Gateway and AI Gateway",
+            "homepage": "https://docs.solo.io/",
             "id": 885037479,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:04:01Z",
+            "open_issues": 1869,
             "owner": "solo-io",
             "repo": "gloo",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "sec"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1038,12 +1847,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source Enterprise AI Gateway for API, MCP and agent, and AI model traffic. One Apache-2.0 binary: 72 native providers behind an OpenAI-compatible API, or serve vLLM and llama.cpp on your own GPUs. Keys, budgets, guardrails, semantic cache, WAF.",
+            "homepage": "https://sbproxy.dev",
             "id": 1205328564,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T01:24:49Z",
+            "open_issues": 0,
             "owner": "soapbucket",
             "repo": "sbproxy",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "ai-gateway",
+              "ai-governance",
+              "anthropic",
+              "api-gateway",
+              "claude-code",
+              "llm",
+              "llm-gateway",
+              "llm-proxy",
+              "llm-routing",
+              "load-balancer",
+              "mcp",
+              "openai",
+              "openai-proxy",
+              "pingora",
+              "rate-limiting",
+              "reverse-proxy",
+              "rust",
+              "self-hosted",
+              "vllm",
+              "waf"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -1060,12 +1895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Language-agnostic persistent background job server",
+            "homepage": "https://contribsys.com/faktory/",
             "id": 94461013,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T00:21:00Z",
+            "open_issues": 23,
             "owner": "contribsys",
             "repo": "faktory",
-            "stars": 6143
+            "stars": 6143,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1076,12 +1916,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dkron - Distributed, fault tolerant job scheduling system https://dkron.io",
+            "homepage": null,
             "id": 37184230,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T19:13:28Z",
+            "open_issues": 45,
             "owner": "dkron-io",
             "repo": "dkron",
-            "stars": 4731
+            "stars": 4731,
+            "topics": [
+              "cron",
+              "distributed-systems",
+              "fault-tolerance",
+              "scheduled-jobs"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -1098,12 +1948,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+            "homepage": "https://infisical.com",
             "id": 521655652,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T02:25:22Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:29:43Z",
+            "open_issues": 744,
             "owner": "Infisical",
             "repo": "infisical",
-            "stars": 29012
+            "stars": 29012,
+            "topics": [
+              "acme",
+              "certificate-management",
+              "cli",
+              "environment-variables",
+              "go",
+              "golang",
+              "node-js",
+              "open-source",
+              "pki",
+              "postgres",
+              "private-ca",
+              "secret-management",
+              "secret-manager",
+              "secret-scanning",
+              "secrets",
+              "secrets-management",
+              "security",
+              "security-tools",
+              "typescript",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1114,12 +1990,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and flexible tool for managing secrets",
+            "homepage": "https://getsops.io",
             "id": 40684033,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T19:19:37Z",
+            "open_issues": 443,
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22955
+            "stars": 22955,
+            "topics": [
+              "aws",
+              "azure",
+              "devops",
+              "gcp",
+              "pgp",
+              "secret-distribution",
+              "secret-management",
+              "security",
+              "sops"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1130,12 +2021,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":busts_in_silhouette: A bash-tool to store your private data inside a git repository.",
+            "homepage": "https://sobolevn.me/git-secret/",
             "id": 51747445,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:21:41Z",
+            "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4040
+            "stars": 4040,
+            "topics": [
+              "encryption",
+              "git",
+              "git-addons",
+              "git-secret",
+              "gpg",
+              "secret-management"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1146,12 +2049,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Kubernetes secrets from Vault for a secure GitOps based workflow.",
+            "homepage": null,
             "id": 204312226,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-13T04:43:55Z",
+            "open_issues": 15,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
-            "stars": 685
+            "stars": 685,
+            "topics": [
+              "crd",
+              "gitops",
+              "helm-chart",
+              "kubernetes",
+              "kubernetes-secrets",
+              "operator-sdk",
+              "secret",
+              "secrets",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1162,12 +2080,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give shell commands and AI agents temporary access to secrets, files, and private networks, then clean everything up automatically.",
+            "homepage": null,
             "id": 596329110,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-20T22:59:23Z",
+            "open_issues": 1,
             "owner": "zifeo",
             "repo": "lade",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "1password",
+              "agents",
+              "ai-agents",
+              "bash",
+              "doppler",
+              "environment-variables",
+              "fish",
+              "infisical",
+              "kubectl",
+              "metatype",
+              "port-forward",
+              "secret",
+              "teleport",
+              "vault",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -1184,12 +2123,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy to maintain open source documentation websites.",
+            "homepage": "https://docusaurus.io",
             "id": 94911145,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:35:46Z",
+            "open_issues": 397,
             "owner": "facebook",
             "repo": "docusaurus",
-            "stars": 66120
+            "stars": 66119,
+            "topics": [
+              "documentation",
+              "hacktoberfest",
+              "javascript",
+              "open-source",
+              "react",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1200,12 +2151,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🃏 A magical documentation site generator.",
+            "homepage": "https://docsify.js.org",
             "id": 74260508,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:51:01Z",
+            "open_issues": 93,
             "owner": "docsifyjs",
             "repo": "docsify",
-            "stars": 31487
+            "stars": 31487,
+            "topics": [
+              "doc",
+              "docs",
+              "docsify",
+              "documentation",
+              "documentation-tool",
+              "github-pages",
+              "markdown",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1216,12 +2181,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source frontend for GitBook doc sites",
+            "homepage": "https://www.gitbook.com",
             "id": 18280236,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T19:39:15Z",
+            "open_issues": 102,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29017
+            "stars": 29017,
+            "topics": [
+              "documentation",
+              "git",
+              "gitbook",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1232,12 +2207,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project documentation with Markdown.",
+            "homepage": "https://www.mkdocs.org",
             "id": 15830664,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-10-20T13:17:06Z",
+            "open_issues": 188,
             "owner": "mkdocs",
             "repo": "mkdocs",
-            "stars": 22387
+            "stars": 22387,
+            "topics": [
+              "documentation",
+              "markdown",
+              "mkdocs",
+              "python",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -1254,12 +2240,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up a personal VPN in the cloud",
+            "homepage": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
             "id": 58842707,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T21:45:41Z",
+            "open_issues": 75,
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30367
+            "stars": 30367,
+            "topics": [
+              "ansible",
+              "encryption",
+              "ikev2",
+              "ipsec",
+              "security",
+              "ssh-tunnel",
+              "strongswan",
+              "vpn",
+              "vpn-client",
+              "vpn-server",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1270,12 +2273,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.",
+            "homepage": "https://twitter.com/streisandvpn",
             "id": 18044526,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-04T09:42:40Z",
+            "open_issues": 237,
             "owner": "StreisandEffect",
             "repo": "streisand",
-            "stars": 23461
+            "stars": 23461,
+            "topics": [
+              "ansible",
+              "anyconnect",
+              "censorship",
+              "openconnect",
+              "openvpn",
+              "shadowsocks",
+              "ssh",
+              "streisand",
+              "stunnel",
+              "tor",
+              "vpn",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1286,12 +2307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.",
+            "homepage": null,
             "id": 24043280,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-28T10:36:35Z",
+            "open_issues": 212,
             "owner": "sshuttle",
             "repo": "sshuttle",
-            "stars": 13532
+            "stars": 13532,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         },
@@ -1302,12 +2328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The main freelan repository.",
+            "homepage": "http://www.freelan.org",
             "id": 4135058,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-31T19:17:48Z",
+            "open_issues": 49,
             "owner": "freelan-developers",
             "repo": "freelan",
-            "stars": 1379
+            "stars": 1379,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
         }
@@ -1316,15 +2347,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:28:12.966Z",
+    "last_updated": "2026-08-29T04:17:24.309Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+      "homepage": "http://awesome-devops.xyz",
       "id": 222709217,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-24T15:52:00Z",
+      "open_issues": 182,
       "owner": "wmariuss",
       "repo": "awesome-devops",
-      "stars": 4336
+      "stars": 4336,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "collections",
+        "development",
+        "devops",
+        "production",
+        "productivity",
+        "resources",
+        "sre",
+        "tools"
+      ]
     },
     "original_repository_sha": "d7f166fda33e39c688fb4d962638d42d6259d296",
     "enhanced_repository": "enhansome/enhansome-devops",

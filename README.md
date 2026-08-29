@@ -211,7 +211,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 *Continuous Integration, Continuous Delivery and Continuous Delivery. GitOps.*
 
 * On-premises
-  * [Drone](https://github.com/drone/drone) ⭐ 38,155 | 🐛 103 | 🌐 Go | 📅 2026-08-28 - a Container-Native, Continuous Delivery Platform.
+  * [Drone](https://github.com/drone/drone) ⭐ 38,157 | 🐛 103 | 🌐 Go | 📅 2026-08-28 - a Container-Native, Continuous Delivery Platform.
   * [Flux](https://github.com/fluxcd/flux) ⚠️ Archived - automatically ensures that the state of your Kubernetes cluster matches the configuration you’ve supplied in Git.
   * [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,396 | 🐛 387 | 🌐 Go | 📅 2026-08-24 - progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments).
   * [Semaphore Community Edition](https://github.com/semaphoreio/semaphore) ⭐ 1,587 | 🐛 173 | 🌐 Elixir | 📅 2026-08-28 - open-source (Apache-2) CI/CD for building, testing, and deploying any project.
@@ -274,7 +274,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 *Tools for automating the management of SSL certificates.*
 
-* [Certbot](https://github.com/certbot/certbot) ⭐ 33,219 | 🐛 188 | 🌐 Python | 📅 2026-08-28 - Automate using Let’s Encrypt certificates on manually-managed websites to enable HTTPS.
+* [Certbot](https://github.com/certbot/certbot) ⭐ 33,220 | 🐛 188 | 🌐 Python | 📅 2026-08-28 - Automate using Let’s Encrypt certificates on manually-managed websites to enable HTTPS.
 * [Cert Manager](https://github.com/jetstack/cert-manager) ⭐ 14,055 | 🐛 248 | 🌐 Go | 📅 2026-08-28 - K8S add-on to automate the management and issuance of TLS certificates from various issuing sources.
 * [Let’s Encrypt](https://letsencrypt.org/) - Free, automated, and open Certificate Authority.
 
@@ -300,14 +300,14 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
     * [Leveldb](https://github.com/google/leveldb) ⭐ 39,367 | 🐛 404 | 🌐 C++ | 📅 2026-03-11 - Fast key-value storage library.
     * [Redis](https://redis.io/) - In-memory data structure store, used as a database, cache and message broker.
     * [RocksDB](https://rocksdb.org/) - A library that provides an embeddable, persistent key-value store for fast storage.
-    * [Etcd](https://github.com/etcd-io/etcd) ⭐ 52,198 | 🐛 331 | 🌐 Go | 📅 2026-08-27 - Distributed reliable key-value store for the most critical data of a distributed system.
+    * [Etcd](https://github.com/etcd-io/etcd) ⭐ 52,199 | 🐛 331 | 🌐 Go | 📅 2026-08-27 - Distributed reliable key-value store for the most critical data of a distributed system.
 
 ## Observability & Monitoring
 
 *Observability, Monitoring, Metrics/Metrics collection and Alerting tools.*
 
-* [Glances](https://github.com/nicolargo/glances) ⭐ 33,459 | 🐛 110 | 🌐 Python | 📅 2026-08-27 - Monitoring information through a curses or Web based interface.
-* [cAdvisor](https://github.com/google/cadvisor) ⭐ 19,384 | 🐛 62 | 🌐 Go | 📅 2026-07-20 - Analyzes resource usage and performance characteristics of running containers.
+* [Glances](https://github.com/nicolargo/glances) ⭐ 33,460 | 🐛 110 | 🌐 Python | 📅 2026-08-27 - Monitoring information through a curses or Web based interface.
+* [cAdvisor](https://github.com/google/cadvisor) ⭐ 19,385 | 🐛 62 | 🌐 Go | 📅 2026-07-20 - Analyzes resource usage and performance characteristics of running containers.
 * [Keep](https://github.com/keephq/keep) ⭐ 12,260 | 🐛 579 | 🌐 Python | 📅 2026-08-24 - Open source alerting CLI for developers.
 * [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,292 | 🐛 53 | 🌐 Python | 📅 2026-08-28 - Cron monitoring tool.
 * [Cabot](https://github.com/arachnys/cabot) ⭐ 5,675 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-10 - Self-hosted, easily-deployable monitoring and alerts service.
@@ -342,7 +342,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
   * [Netdata](https://www.netdata.cloud/) - Instantly diagnose slowdowns and anomalies in your infrastructure.
   * [Autometrics](https://autometrics.dev/) - An open-source micro framework for observability.
 * Logs Management
-  * [Loki](https://github.com/grafana/loki) ⭐ 28,799 | 🐛 1,727 | 🌐 Go | 📅 2026-08-29 - Horizontally-scalable, highly available, multi-tenant log aggregation system inspired by Prometheus.
+  * [Loki](https://github.com/grafana/loki) ⭐ 28,799 | 🐛 1,729 | 🌐 Go | 📅 2026-08-29 - Horizontally-scalable, highly available, multi-tenant log aggregation system inspired by Prometheus.
   * [Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,120 | 🐛 2,057 | 🌐 Java | 📅 2026-08-28 - Free and open source log management.
   * [Anthracite](https://github.com/Dieterbe/anthracite) ⭐ 295 | 🐛 12 | 🌐 JavaScript | 📅 2016-12-13 - An event/change logging/management app.
   * [Logstash](https://www.elastic.co/products/logstash#) - Collect, parse, transform logs.
@@ -352,7 +352,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
   * [Kibana](https://www.elastic.co/products/kibana) - Explore, visualize, discover data.
 * Status
   * [Cachet](https://github.com/CachetHQ/Cachet) ⭐ 15,229 | 🐛 6 | 🌐 PHP | 📅 2026-08-24 - Beautiful and powerful open-source status page system.
-  * [Oxmgr](https://github.com/Vladimir-Urik/OxMgr) ⭐ 238 | 🐛 17 | 🌐 Rust | 📅 2026-08-24 - Lightweight Rust process manager and PM2 alternative. 42x faster crash recovery, 19x lower memory usage. Manages Node.js, Python, Go, and any executable on Linux, macOS, and Windows.
+  * [Oxmgr](https://github.com/Vladimir-Urik/OxMgr) ⭐ 239 | 🐛 17 | 🌐 Rust | 📅 2026-08-24 - Lightweight Rust process manager and PM2 alternative. 42x faster crash recovery, 19x lower memory usage. Manages Node.js, Python, Go, and any executable on Linux, macOS, and Windows.
   * [StatusPal](https://statuspal.io/?utm_source=github.com\&utm_medium=referral\&utm_campaign=awesome-devops) - Communicate incidents and maintenance effectively with a beautiful hosted status page.
   * [Instatus](https://instatus.com) - Quick and beautiful status page.
 
@@ -464,7 +464,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 *A collection of tools to help with sharing knowledge and telling the story.*
 
-* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,120 | 🐛 397 | 🌐 TypeScript | 📅 2026-08-28 - Easy to maintain open source documentation websites.
+* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,119 | 🐛 397 | 🌐 TypeScript | 📅 2026-08-28 - Easy to maintain open source documentation websites.
 * [Docsify](https://github.com/docsifyjs/docsify/) ⭐ 31,487 | 🐛 93 | 🌐 JavaScript | 📅 2026-08-28 - A magical documentation site generator.
 * [Gitbook](https://github.com/GitbookIO/gitbook) ⭐ 29,017 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-28 - Modern documentation format and toolchain using Git and Markdown.
 * [MkDocs](https://github.com/mkdocs/mkdocs/) ⭐ 22,387 | 🐛 188 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown.
