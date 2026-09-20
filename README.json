@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "localstack",
             "repo": "localstack",
-            "stars": 65125,
+            "stars": 65126,
             "topics": [
               "aws",
               "cloud",
@@ -93,10 +93,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T14:21:57Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "docker",
             "repo": "compose",
-            "stars": 38196,
+            "stars": 38200,
             "topics": [
               "docker",
               "docker-compose",
@@ -123,7 +123,7 @@
             "open_issues": 1033,
             "owner": "podman-container-tools",
             "repo": "podman",
-            "stars": 32896,
+            "stars": 32902,
             "topics": [
               "containers",
               "docker",
@@ -293,7 +293,7 @@
             "open_issues": 3,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3759,
+            "stars": 3761,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -389,7 +389,7 @@
             "open_issues": 55,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45098,
+            "stars": 45103,
             "topics": [
               "python",
               "shell"
@@ -437,7 +437,7 @@
             "open_issues": 10,
             "owner": "txn2",
             "repo": "kubefwd",
-            "stars": 4171,
+            "stars": 4170,
             "topics": [
               "api-rest",
               "developer-tools",
@@ -474,7 +474,7 @@
             "open_issues": 46,
             "owner": "tofuutils",
             "repo": "tenv",
-            "stars": 1437,
+            "stars": 1438,
             "topics": [
               "go",
               "hacktoberfest",
@@ -507,7 +507,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-17T19:12:25Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "erickochen",
             "repo": "purple",
             "stars": 699,
@@ -633,10 +633,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T21:36:13Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38396,
+                "stars": 38407,
                 "topics": [
                   "build-automation",
                   "build-pipelines",
@@ -695,7 +695,7 @@
                 "open_issues": 389,
                 "owner": "fluxcd",
                 "repo": "flagger",
-                "stars": 5410,
+                "stars": 5411,
                 "topics": [
                   "ab-testing",
                   "aws-appmesh",
@@ -725,10 +725,10 @@
                 "language": "Elixir",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T19:29:57Z",
-                "open_issues": 173,
+                "open_issues": 174,
                 "owner": "semaphoreio",
                 "repo": "semaphore",
-                "stars": 1603,
+                "stars": 1604,
                 "topics": [
                   "build-pipelines",
                   "cd",
@@ -843,7 +843,7 @@
             "open_issues": 176,
             "owner": "certbot",
             "repo": "certbot",
-            "stars": 33241,
+            "stars": 33243,
             "topics": [
               "acme",
               "acme-client",
@@ -867,11 +867,11 @@
             "id": 92313258,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T17:18:19Z",
-            "open_issues": 261,
+            "last_commit": "2026-09-20T21:48:39Z",
+            "open_issues": 258,
             "owner": "cert-manager",
             "repo": "cert-manager",
-            "stars": 14082,
+            "stars": 14083,
             "topics": [
               "certificate",
               "crd",
@@ -901,11 +901,11 @@
             "id": 2909429,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T18:06:32Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-20T17:22:05Z",
+            "open_issues": 103,
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33619,
+            "stars": 33626,
             "topics": [
               "monitoring",
               "multi-platform",
@@ -935,7 +935,7 @@
             "open_issues": 65,
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19437,
+            "stars": 19438,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
@@ -953,7 +953,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-19T08:06:04Z",
-            "open_issues": 619,
+            "open_issues": 621,
             "owner": "keephq",
             "repo": "keep",
             "stars": 12336,
@@ -988,7 +988,7 @@
             "open_issues": 53,
             "owner": "healthchecks",
             "repo": "healthchecks",
-            "stars": 10343,
+            "stars": 10347,
             "topics": [
               "cron",
               "cron-jobs",
@@ -1040,11 +1040,11 @@
             "id": 808146034,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T15:04:19Z",
-            "open_issues": 433,
+            "last_commit": "2026-09-20T07:03:49Z",
+            "open_issues": 434,
             "owner": "HolmesGPT",
             "repo": "holmesgpt",
-            "stars": 3414,
+            "stars": 3421,
             "topics": [
               "aiops",
               "chatbot",
@@ -1113,7 +1113,7 @@
             "open_issues": 1,
             "owner": "robcowart",
             "repo": "elastiflow",
-            "stars": 2509,
+            "stars": 2510,
             "topics": [
               "elasticsearch",
               "elk",
@@ -1234,7 +1234,7 @@
             "open_issues": 2,
             "owner": "jsdelivr",
             "repo": "globalping-cli",
-            "stars": 284,
+            "stars": 285,
             "topics": [
               "cli",
               "command-line",
@@ -1365,11 +1365,11 @@
                 "id": 129717717,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-19T21:12:41Z",
-                "open_issues": 1520,
+                "last_commit": "2026-09-20T21:12:54Z",
+                "open_issues": 1529,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28916,
+                "stars": 28917,
                 "topics": [
                   "cloudnative",
                   "grafana",
@@ -1397,7 +1397,7 @@
                 "open_issues": 2085,
                 "owner": "Graylog2",
                 "repo": "graylog2-server",
-                "stars": 8136,
+                "stars": 8138,
                 "topics": [
                   "amqp",
                   "gelf",
@@ -1462,7 +1462,7 @@
                 "open_issues": 6,
                 "owner": "cachethq",
                 "repo": "cachet",
-                "stars": 15244,
+                "stars": 15246,
                 "topics": [
                   "cachet",
                   "laravel",
@@ -1533,8 +1533,8 @@
             "id": 113106184,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T04:10:53Z",
-            "open_issues": 223,
+            "last_commit": "2026-09-20T17:04:17Z",
+            "open_issues": 225,
             "owner": "linkerd",
             "repo": "linkerd2",
             "stars": 11497,
@@ -1592,7 +1592,7 @@
             "open_issues": 34,
             "owner": "Netflix",
             "repo": "chaosmonkey",
-            "stars": 17138,
+            "stars": 17139,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
@@ -1610,10 +1610,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-15T07:02:35Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "Shopify",
             "repo": "toxiproxy",
-            "stars": 12350,
+            "stars": 12353,
             "topics": [
               "chaos",
               "down",
@@ -1675,11 +1675,11 @@
             "id": 85039965,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T05:22:54Z",
-            "open_issues": 390,
+            "last_commit": "2026-09-20T09:58:57Z",
+            "open_issues": 392,
             "owner": "litmuschaos",
             "repo": "litmus",
-            "stars": 5616,
+            "stars": 5618,
             "topics": [
               "chaos-engineering",
               "chaos-experiments",
@@ -1721,7 +1721,7 @@
             "open_issues": 7,
             "owner": "alexei-led",
             "repo": "pumba",
-            "stars": 3161,
+            "stars": 3170,
             "topics": [
               "chaos",
               "chaos-engineering",
@@ -1762,11 +1762,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T16:44:36Z",
-            "open_issues": 1109,
+            "last_commit": "2026-09-20T20:52:57Z",
+            "open_issues": 1117,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25359,
+            "stars": 25382,
             "topics": [
               "bpf",
               "cncf",
@@ -1904,7 +1904,7 @@
             "open_issues": 23,
             "owner": "contribsys",
             "repo": "faktory",
-            "stars": 6148,
+            "stars": 6147,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
@@ -1921,7 +1921,7 @@
             "id": 37184230,
             "language": "Go",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-19T18:34:54Z",
+            "last_commit": "2026-09-20T16:05:44Z",
             "open_issues": 35,
             "owner": "dkron-io",
             "repo": "dkron",
@@ -1953,11 +1953,11 @@
             "id": 521655652,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T05:37:28Z",
-            "open_issues": 793,
+            "last_commit": "2026-09-20T20:03:57Z",
+            "open_issues": 795,
             "owner": "Infisical",
             "repo": "infisical",
-            "stars": 29325,
+            "stars": 29339,
             "topics": [
               "acme",
               "certificate-management",
@@ -1999,7 +1999,7 @@
             "open_issues": 447,
             "owner": "getsops",
             "repo": "sops",
-            "stars": 23161,
+            "stars": 23171,
             "topics": [
               "aws",
               "azure",
@@ -2030,7 +2030,7 @@
             "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4044,
+            "stars": 4045,
             "topics": [
               "encryption",
               "git",
@@ -2115,6 +2115,89 @@
       "title": "Secret Management"
     },
     {
+      "description": "Validating, lint and best practice in term of Security on code or infrastructure.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "checkov",
+          "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+            "homepage": "https://www.checkov.io/",
+            "id": 224386599,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-17T23:03:06Z",
+            "open_issues": 171,
+            "owner": "bridgecrewio",
+            "repo": "checkov",
+            "stars": 9017,
+            "topics": [
+              "aws",
+              "aws-security",
+              "azure",
+              "cloudformation",
+              "compliance",
+              "devops",
+              "gcp",
+              "hacktoberfest",
+              "infrastructure-as-code",
+              "kubernetes",
+              "scans",
+              "static-analysis",
+              "terraform"
+            ]
+          },
+          "first_seen": "2026-09-20T21:54:06.731Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Darkmoon",
+          "description": "Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks with a proof trail per finding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Autonomous AI pentesting engine across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof for every finding. Privacy gateway: the LLM never sees your real IPs, hosts or creds; nothing leaves your perimeter.",
+            "homepage": "https://dark-moon.org/",
+            "id": 894433723,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-16T14:48:07Z",
+            "open_issues": 2,
+            "owner": "ASCIT31",
+            "repo": "Dark-Moon",
+            "stars": 955,
+            "topics": [
+              "active-directory",
+              "ai-agents",
+              "ai-red-team",
+              "ai-security-tool",
+              "autonomous-agents",
+              "cloud-security",
+              "firmware-security",
+              "iot-security",
+              "kubernetes",
+              "llm",
+              "local-llm",
+              "mcp",
+              "multi-agent-systems",
+              "offensive-security",
+              "penetration-testing",
+              "pentesting",
+              "red-team",
+              "security-automation",
+              "security-tools",
+              "self-hosted"
+            ]
+          },
+          "first_seen": "2026-09-20T21:54:06.731Z"
+        }
+      ],
+      "title": "Security"
+    },
+    {
       "description": "A collection of tools to help with sharing knowledge and telling the story.",
       "items": [
         {
@@ -2133,7 +2216,7 @@
             "open_issues": 400,
             "owner": "facebook",
             "repo": "docusaurus",
-            "stars": 66289,
+            "stars": 66304,
             "topics": [
               "documentation",
               "hacktoberfest",
@@ -2157,11 +2240,11 @@
             "id": 74260508,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T03:02:05Z",
-            "open_issues": 93,
+            "last_commit": "2026-09-20T02:34:29Z",
+            "open_issues": 91,
             "owner": "docsifyjs",
             "repo": "docsify",
-            "stars": 31520,
+            "stars": 31521,
             "topics": [
               "doc",
               "docs",
@@ -2188,10 +2271,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-18T15:27:55Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29032,
+            "stars": 29033,
             "topics": [
               "documentation",
               "git",
@@ -2217,7 +2300,7 @@
             "open_issues": 190,
             "owner": "mkdocs",
             "repo": "mkdocs",
-            "stars": 22451,
+            "stars": 22453,
             "topics": [
               "documentation",
               "markdown",
@@ -2250,7 +2333,7 @@
             "open_issues": 77,
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30388,
+            "stars": 30389,
             "topics": [
               "ansible",
               "encryption",
@@ -2283,7 +2366,7 @@
             "open_issues": 237,
             "owner": "StreisandEffect",
             "repo": "streisand",
-            "stars": 23451,
+            "stars": 23450,
             "topics": [
               "ansible",
               "anyconnect",
@@ -2317,7 +2400,7 @@
             "open_issues": 211,
             "owner": "sshuttle",
             "repo": "sshuttle",
-            "stars": 13566,
+            "stars": 13567,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:12.966Z"
@@ -2348,7 +2431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:47:42.721Z",
+    "last_updated": "2026-09-20T21:54:06.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
@@ -2356,11 +2439,11 @@
       "id": 222709217,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-19T21:20:14Z",
-      "open_issues": 180,
+      "last_commit": "2026-09-20T21:04:39Z",
+      "open_issues": 176,
       "owner": "wmariuss",
       "repo": "awesome-devops",
-      "stars": 4376,
+      "stars": 4380,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2374,7 +2457,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "d28699dd0e43e7d524e08717f45d29dcde96f032",
+    "original_repository_sha": "6c209f98cfc2838323081036196ae21eb4f8f310",
     "enhanced_repository": "enhansome/enhansome-devops",
     "enhanced_repository_description": null,
     "title": "Awesome DevOps with stars"
