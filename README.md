@@ -89,8 +89,8 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 *Private, Public and Hybrid open-source Cloud Platforms.*
 
 * [Localstack](https://github.com/localstack/localstack) ⚠️ Archived - Fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline. `oss` `paid`
-* [Fakecloud](https://github.com/faiscadev/fakecloud) ⭐ 779 | 🐛 12 | 🌐 Rust | 📅 2026-11-02 - Local AWS cloud emulator for development and testing. `oss`
-* [Spinifex](https://github.com/mulgadc/spinifex) ⭐ 411 | 🐛 7 | 🌐 Go | 📅 2026-11-05 - AWS-compatible infrastructure platform (EC2, VPC, S3, EKS, ECS, RDS and more) for bare-metal, edge and on-premises deployments. `oss`
+* [Fakecloud](https://github.com/faiscadev/fakecloud) ⭐ 780 | 🐛 12 | 🌐 Rust | 📅 2026-11-02 - Local AWS cloud emulator for development and testing. `oss`
+* [Spinifex](https://github.com/mulgadc/spinifex) ⭐ 412 | 🐛 9 | 🌐 Go | 📅 2026-11-06 - AWS-compatible infrastructure platform (EC2, VPC, S3, EKS, ECS, RDS and more) for bare-metal, edge and on-premises deployments. `oss`
 * [Openstack](https://www.openstack.org/) - Open source software for creating private and public clouds. `oss`
 * [Apache CloudStack](https://cloudstack.apache.org/) - Designed to deploy and manage large networks of virtual machines. `oss`
 * [OpenNebula](https://opennebula.org/) - Build Private Clouds and manage Data Center virtualization based on KVM, LXD and VMware. `oss` `paid`
@@ -102,7 +102,7 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Operating Systems - Server Platform.*
 
-* [Photon](https://github.com/vmware/photon) ⭐ 3,180 | 🐛 247 | 🌐 C | 📅 2026-11-04 - Linux container host optimized for cloud-native applications, cloud platforms, and VMware infrastructure. `oss`
+* [Photon](https://github.com/vmware/photon) ⭐ 3,180 | 🐛 247 | 🌐 C | 📅 2026-11-05 - Linux container host optimized for cloud-native applications, cloud platforms, and VMware infrastructure. `oss`
 * [Ubuntu](https://ubuntu.com/) - Enterprise Open Source and Linux. `oss` `paid`
 * [Rocky Linux](https://rockylinux.org/) - Open-source enterprise operating system designed to be 100% bug-for-bug compatible with Red Hat Enterprise Linux. `oss`
 * [CoreOS](http://coreos.com/) - The pioneering lightweight container host. `oss`
@@ -122,7 +122,7 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Network distributed filesystems.*
 
-* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 35,915 | 🐛 716 | 🌐 Go | 📅 2026-11-05 - Distributed storage with S3-compatible object storage, POSIX file system access and Kubernetes CSI support. `oss` `paid`
+* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 35,936 | 🐛 706 | 🌐 Go | 📅 2026-11-06 - Distributed storage with S3-compatible object storage, POSIX file system access and Kubernetes CSI support. `oss` `paid`
 * [Ceph](https://ceph.io/en/) - Highly scalable object, block and file-based storage under one whole system. `oss`
 * [Gluster](https://www.gluster.org/) - Free and open source software scalable network filesystem. `oss`
 * [LINBIT](https://www.linbit.com/en/) - Create, remove, and replicate block storage devices for datacenter scale environments. `oss` `paid`
@@ -133,12 +133,12 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Applications management platforms, Containers platform and Containers management.*
 
-* [Docker Compose](https://github.com/docker/compose) ⭐ 38,605 | 🐛 117 | 🌐 Go | 📅 2026-11-04 - Define and run multi-container applications with Docker. `oss`
-* [Podman](https://github.com/containers/podman) ⭐ 33,181 | 🐛 986 | 🌐 Go | 📅 2026-11-04 - A tool for managing OCI containers and pods. `oss`
-* [Piku](https://github.com/piku/piku) ⭐ 6,603 | 🐛 6 | 🌐 Python | 📅 2026-09-04 - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. `oss`
+* [Docker Compose](https://github.com/docker/compose) ⭐ 38,622 | 🐛 115 | 🌐 Go | 📅 2026-11-05 - Define and run multi-container applications with Docker. `oss`
+* [Podman](https://github.com/containers/podman) ⭐ 33,185 | 🐛 979 | 🌐 Go | 📅 2026-11-05 - A tool for managing OCI containers and pods. `oss`
+* [Piku](https://github.com/piku/piku) ⭐ 6,605 | 🐛 6 | 🌐 Python | 📅 2026-09-04 - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. `oss`
 * [Docker Swarm](https://github.com/docker/swarm) ⚠️ Archived - Docker-native clustering system. `oss`
 * [AppScale](https://github.com/AppScale/appscale) ⭐ 2,420 | 🐛 52 | 🌐 Python | 📅 2024-05-22 - Easy-to-manage serverless platform for building and running scalable web and mobile applications. `oss`
-* [Mocker](https://github.com/us/mocker) ⭐ 374 | 🐛 0 | 🌐 Swift | 📅 2026-10-28 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. `oss`
+* [Mocker](https://github.com/us/mocker) ⭐ 373 | 🐛 0 | 🌐 Swift | 📅 2026-10-28 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. `oss`
 * [Openshift](https://www.openshift.com/) - The Kubernetes platform for big ideas. `paid` `self-hosted`
 * [Cycle.io](https://cycle.io/) - DevOps platform for building platforms. Handle container orchestration, load-balancing, monitoring, and more from a single control plane. `paid`
 * [Dokku](https://dokku.com/) - Helps you build and manage the lifecycle of applications. `oss` `paid`
@@ -199,9 +199,9 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 * [OctoDNS](https://github.com/github/octodns) ⭐ 3,776 | 🐛 7 | 🌐 Python | 📅 2026-10-26 - Managing DNS across multiple providers. DNS as code. `oss`
 * [Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived - Open Source Virtual Machine (VM) manager with a container UX and built-in GitOps management. `oss`
-* [Servy](https://github.com/aelassas/servy) ⭐ 2,082 | 🐛 2 | 🌐 C# | 📅 2026-11-04 - Runs any application as a native Windows service, with logging, health checks and restart policies. `oss`
+* [Servy](https://github.com/aelassas/servy) ⭐ 2,084 | 🐛 2 | 🌐 C# | 📅 2026-11-05 - Runs any application as a native Windows service, with logging, health checks and restart policies. `oss`
 * [Selefra](https://github.com/selefra/selefra) ⭐ 546 | 🐛 0 | 🌐 Go | 📅 2023-08-30 - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS. `oss`
-* [cronstable](https://github.com/ptweezy/cronstable) ⭐ 141 | 🐛 4 | 🌐 Python | 📅 2026-11-03 - Job scheduler with retries, alerts, saved run history, workflows, and dashboards for single machines and clusters. `oss`
+* [cronstable](https://github.com/ptweezy/cronstable) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-11-05 - Job scheduler with retries, alerts, saved run history, workflows, and dashboards for single machines and clusters. `oss`
 * [Ansible](https://www.ansible.com/) - Simple IT automation platform that makes your applications and systems easier to deploy. `oss` `paid`
 * [Salt](https://saltproject.io/) - Automate the management and configuration of any infrastructure or application at scale. `oss`
 * [Puppet](https://puppet.com/) - Unparalleled infrastructure automation and delivery. `oss` `paid`
@@ -246,10 +246,10 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Tools and services which increase productivity, developer velocity and developer experience.*
 
-* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,183 | 🐛 50 | 🌐 Shell | 📅 2026-11-03 - Simple Python version management. `oss`
-* [Laradock](https://github.com/laradock/laradock) ⭐ 12,681 | 🐛 0 | 🌐 Dockerfile | 📅 2026-11-04 - Ready-made Docker environment for PHP development, with web servers, databases and queues. `oss`
+* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,180 | 🐛 48 | 🌐 Shell | 📅 2026-11-05 - Simple Python version management. `oss`
+* [Laradock](https://github.com/laradock/laradock) ⭐ 12,682 | 🐛 0 | 🌐 Dockerfile | 📅 2026-11-04 - Ready-made Docker environment for PHP development, with web servers, databases and queues. `oss`
 * [tfenv](https://github.com/tfutils/tfenv) ⭐ 4,991 | 🐛 37 | 🌐 Shell | 📅 2026-07-01 - Terraform version manager. `oss`
-* [kubefwd](https://github.com/txn2/kubefwd) ⭐ 4,178 | 🐛 7 | 🌐 Go | 📅 2026-11-03 - Bulk port forwarding Kubernetes services for local development. `oss`
+* [kubefwd](https://github.com/txn2/kubefwd) ⭐ 4,179 | 🐛 7 | 🌐 Go | 📅 2026-11-03 - Bulk port forwarding Kubernetes services for local development. `oss`
 * [tenv](https://github.com/tofuutils/tenv) ⭐ 1,462 | 🐛 54 | 🌐 Go | 📅 2026-10-30 - streamline IaC version manager for OpenTofu, Terraform, Terragrunt and Atmos, written in Go. `oss`
 * [Dorothy](https://github.com/Charlie85270/Dorothy) ⭐ 357 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-23 - Desktop app that runs and coordinates several AI coding agents (Claude Code, Codex, Gemini) with a kanban board and automations. `oss`
 * [Kanvas](https://layer5.io/kanvas/) - a collaborative tool with visual interface for designing and operating infrastructure. `free` `paid` `self-hosted`
@@ -262,9 +262,9 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Terminals, SSH clients and terminal UIs for working with servers and cloud resources.*
 
-* [purple](https://github.com/erickochen/purple) ⭐ 769 | 🐛 6 | 🌐 Rust | 📅 2026-11-04 - SSH client with AWS/GCP/Azure sync, Docker/Podman and SCP transfers. `oss`
+* [purple](https://github.com/erickochen/purple) ⭐ 768 | 🐛 6 | 🌐 Rust | 📅 2026-11-04 - SSH client with AWS/GCP/Azure sync, Docker/Podman and SCP transfers. `oss`
 * [Telert](https://github.com/navig-me/telert) ⭐ 287 | 🐛 13 | 🌐 Python | 📅 2026-11-02 - Get alerts when terminal commands finish via Telegram, Slack, Audio, etc. `oss`
-* [claws](https://github.com/clawscli/claws) ⭐ 164 | 🐛 8 | 🌐 Go | 📅 2026-11-03 - A terminal UI for managing AWS resources across multiple profiles and regions with vim-style navigation. `oss`
+* [claws](https://github.com/clawscli/claws) ⭐ 165 | 🐛 8 | 🌐 Go | 📅 2026-11-03 - A terminal UI for managing AWS resources across multiple profiles and regions with vim-style navigation. `oss`
 * [Chaterm](https://chaterm.ai/) - Open-source AI terminal and SSH client for servers, databases and Kubernetes. `oss` `paid`
 * [k9s](https://k9scli.io/) - Terminal UI to interact with your Kubernetes clusters. `oss`
 
@@ -273,13 +273,13 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 *Continuous Integration, Continuous Delivery and Continuous Deployment. GitOps.*
 
 * On-premises
-  * [Drone](https://github.com/drone/drone) ⭐ 38,819 | 🐛 129 | 🌐 Go | 📅 2026-11-03 - a Container-Native, Continuous Delivery Platform. `oss` `paid`
+  * [Drone](https://github.com/drone/drone) ⭐ 38,832 | 🐛 129 | 🌐 Go | 📅 2026-11-03 - a Container-Native, Continuous Delivery Platform. `oss` `paid`
   * [Flux](https://github.com/fluxcd/flux) ⚠️ Archived - automatically ensures that the state of your Kubernetes cluster matches the configuration you’ve supplied in Git. `oss`
-  * [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,428 | 🐛 415 | 🌐 Go | 📅 2026-09-21 - progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments). `oss`
-  * [Semaphore Community Edition](https://github.com/semaphoreio/semaphore) ⭐ 1,633 | 🐛 191 | 🌐 Elixir | 📅 2026-11-04 - open-source (Apache-2) CI/CD for building, testing, and deploying any project. `oss` `paid`
+  * [Flagger](https://github.com/weaveworks/flagger) ⭐ 5,429 | 🐛 415 | 🌐 Go | 📅 2026-09-21 - progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments). `oss`
+  * [Semaphore Community Edition](https://github.com/semaphoreio/semaphore) ⭐ 1,634 | 🐛 188 | 🌐 Elixir | 📅 2026-11-05 - open-source (Apache-2) CI/CD for building, testing, and deploying any project. `oss` `paid`
   * [Hydra](https://github.com/NixOS/hydra) ⭐ 1,587 | 🐛 395 | 🌐 PLpgSQL | 📅 2026-11-04 - Continuous integration server for Nix-based projects. `oss`
-  * [Evergreen](https://github.com/evergreen-ci/evergreen) ⭐ 450 | 🐛 23 | 🌐 Go | 📅 2026-11-04 - A Distributed Continuous Integration System from MongoDB. `oss`
-  * [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 233 | 🐛 81 | 🌐 Python | 📅 2026-11-04 - Hardware-in-the-loop testing framework for real and virtual devices, with CI/CD integration and Kubernetes-native device management. `oss`
+  * [Evergreen](https://github.com/evergreen-ci/evergreen) ⭐ 450 | 🐛 20 | 🌐 Go | 📅 2026-11-05 - A Distributed Continuous Integration System from MongoDB. `oss`
+  * [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 233 | 🐛 82 | 🌐 Python | 📅 2026-11-05 - Hardware-in-the-loop testing framework for real and virtual devices, with CI/CD integration and Kubernetes-native device management. `oss`
   * [Buildbot](http://buildbot.net/) - automate all aspects of the software development cycle. `oss`
   * [Gitlab CI](https://about.gitlab.com/product/continuous-integration/) - pipelines build, test, deploy, and monitor your code as part of a single, integrated workflow. `oss` `paid`
   * [Jenkins](http://jenkins-ci.org/) - automation server for building, deploying and automating any project. `oss`
@@ -317,9 +317,9 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Source Code management, Git-repository manager, Version Control.*
 
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,652 | 🐛 1,066 | 🌐 Go | 📅 2026-11-04 - Simple terminal UI for Git commands. `oss`
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,674 | 🐛 1,067 | 🌐 Go | 📅 2026-11-04 - Simple terminal UI for Git commands. `oss`
 * [Phabricator](https://github.com/phacility/phabricator/) ⭐ 12,281 | 🐛 3 | 🌐 PHP | 📅 2026-11-01 - A collection of web applications which help software companies build better software. `oss`
-* [Gitblit](https://github.com/gitblit/gitblit) ⭐ 2,364 | 🐛 254 | 🌐 Java | 📅 2025-06-14 - Pure Java Git solution for managing, viewing, and serving Git repositories. `oss`
+* [Gitblit](https://github.com/gitblit/gitblit) ⭐ 2,363 | 🐛 254 | 🌐 Java | 📅 2025-06-14 - Pure Java Git solution for managing, viewing, and serving Git repositories. `oss`
 * [GitHub](https://github.com/) - Helps developers store and manage their code, as well as track and control changes to their code. `free` `paid`
 * [Gitlab](https://gitlab.com/) - Entire DevOps lifecycle in one application. `oss` `paid`
 * [Bitbucket](https://bitbucket.org/product/) - Gives teams one place to plan projects, collaborate on code, test, and deploy. `free` `paid` `self-hosted`
@@ -348,8 +348,8 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Tools for automating the management of SSL certificates.*
 
-* [Certbot](https://github.com/certbot/certbot) ⭐ 33,312 | 🐛 190 | 🌐 Python | 📅 2026-11-03 - Automate using Let’s Encrypt certificates on manually-managed websites to enable HTTPS. `oss`
-* [Cert Manager](https://github.com/jetstack/cert-manager) ⭐ 14,147 | 🐛 277 | 🌐 Go | 📅 2026-11-04 - K8S add-on to automate the management and issuance of TLS certificates from various issuing sources. `oss`
+* [Certbot](https://github.com/certbot/certbot) ⭐ 33,310 | 🐛 190 | 🌐 Python | 📅 2026-11-05 - Automate using Let’s Encrypt certificates on manually-managed websites to enable HTTPS. `oss`
+* [Cert Manager](https://github.com/jetstack/cert-manager) ⭐ 14,149 | 🐛 277 | 🌐 Go | 📅 2026-11-05 - K8S add-on to automate the management and issuance of TLS certificates from various issuing sources. `oss`
 * [Let’s Encrypt](https://letsencrypt.org/) - Free, automated, and open Certificate Authority. `oss`
 
 ## Databases
@@ -372,33 +372,33 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
   * [ClickHouse](https://clickhouse.com/) - Column-oriented database for real-time analytical reports. `oss` `paid`
   * Key-Value
     * [Couchbase](https://www.couchbase.com/) - Distributed  multi-model NoSQL document-oriented database that is optimized for interactive applications. `free` `paid` `self-hosted`
-    * [Leveldb](https://github.com/google/leveldb) ⭐ 39,519 | 🐛 430 | 🌐 C++ | 📅 2026-10-08 - Fast key-value storage library. `oss`
+    * [Leveldb](https://github.com/google/leveldb) ⭐ 39,527 | 🐛 430 | 🌐 C++ | 📅 2026-10-08 - Fast key-value storage library. `oss`
     * [Redis](https://redis.io/) - In-memory data structure store, used as a database, cache and message broker. `oss` `paid`
     * [RocksDB](https://rocksdb.org/) - A library that provides an embeddable, persistent key-value store for fast storage. `oss`
-    * [Etcd](https://github.com/etcd-io/etcd) ⭐ 52,443 | 🐛 415 | 🌐 Go | 📅 2026-11-04 - Distributed reliable key-value store for the most critical data of a distributed system. `oss`
+    * [Etcd](https://github.com/etcd-io/etcd) ⭐ 52,477 | 🐛 406 | 🌐 Go | 📅 2026-11-05 - Distributed reliable key-value store for the most critical data of a distributed system. `oss`
     * [Valkey](https://valkey.io/) - High-performance key/value datastore forked from Redis. `oss`
 
 ## Observability & Monitoring
 
 *Observability, Monitoring, Metrics/Metrics collection and Alerting tools.*
 
-* [Glances](https://github.com/nicolargo/glances) ⭐ 33,904 | 🐛 115 | 🌐 Python | 📅 2026-11-04 - Monitoring information through a curses or Web based interface. `oss`
-* [cAdvisor](https://github.com/google/cadvisor) ⭐ 19,516 | 🐛 78 | 🌐 Go | 📅 2026-10-12 - Analyzes resource usage and performance characteristics of running containers. `oss`
-* [Keep](https://github.com/keephq/keep) ⭐ 12,490 | 🐛 667 | 🌐 Python | 📅 2026-11-04 - Open source alerting CLI for developers. `oss` `paid`
-* [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,498 | 🐛 56 | 🌐 Python | 📅 2026-11-04 - Cron monitoring tool. `oss` `paid`
-* [Cabot](https://github.com/arachnys/cabot) ⭐ 5,680 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-10 - Self-hosted, easily-deployable monitoring and alerts service. `oss`
-* [HolmesGPT](https://github.com/robusta-dev/holmesgpt) ⭐ 3,781 | 🐛 462 | 🌐 Python | 📅 2026-11-04 - Open Source AI assistant that can investigate alerts and find root cause automatically. `oss`
+* [Glances](https://github.com/nicolargo/glances) ⭐ 33,906 | 🐛 118 | 🌐 Python | 📅 2026-11-05 - Monitoring information through a curses or Web based interface. `oss`
+* [cAdvisor](https://github.com/google/cadvisor) ⭐ 19,517 | 🐛 78 | 🌐 Go | 📅 2026-10-12 - Analyzes resource usage and performance characteristics of running containers. `oss`
+* [Keep](https://github.com/keephq/keep) ⭐ 12,496 | 🐛 667 | 🌐 Python | 📅 2026-11-04 - Open source alerting CLI for developers. `oss` `paid`
+* [Healthchecks](https://github.com/healthchecks/healthchecks) ⭐ 10,502 | 🐛 56 | 🌐 Python | 📅 2026-11-05 - Cron monitoring tool. `oss` `paid`
+* [Cabot](https://github.com/arachnys/cabot) ⭐ 5,678 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-10 - Self-hosted, easily-deployable monitoring and alerts service. `oss`
+* [HolmesGPT](https://github.com/robusta-dev/holmesgpt) ⭐ 3,800 | 🐛 460 | 🌐 Python | 📅 2026-11-05 - Open Source AI assistant that can investigate alerts and find root cause automatically. `oss`
 * [Alerta](https://github.com/alerta/alerta) ⭐ 2,535 | 🐛 39 | 🌐 Python | 📅 2026-10-17 - Scalable, minimal configuration and visualization monitoring system. `oss`
 * [ElastiFlow](https://github.com/robcowart/elastiflow) ⚠️ Archived - Network flow monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack. `free` `paid` `self-hosted`
 * [Amon](https://github.com/amonapp/amon) ⭐ 1,322 | 🐛 37 | 🌐 Python | 📅 2022-07-01 - Modern server monitoring platform. `oss`
 * [Shinken](https://github.com/shinken-solutions/shinken) ⭐ 1,135 | 🐛 228 | 🌐 Python | 📅 2024-04-26 - Monitoring framework. `oss`
-* [stackql](https://github.com/stackql/stackql) ⭐ 1,075 | 🐛 109 | 🌐 Go | 📅 2026-11-05 - Query and manage AWS, GCP, Azure and dozens of other cloud APIs with SQL. `oss`
-* [maintenant](https://github.com/kOlapsis/maintenant) ⭐ 532 | 🐛 2 | 🌐 Go | 📅 2026-11-03 - Self-hosted monitoring for Docker, Swarm and Kubernetes, with endpoint, TLS and cron checks and status pages. `oss`
-* [Aurora](https://github.com/Arvo-AI/aurora) ⭐ 453 | 🐛 68 | 🌐 Python | 📅 2026-11-04 - Self-hosted AI agent that investigates production incidents across AWS, Azure, GCP and Kubernetes and returns a root-cause analysis. `oss`
+* [stackql](https://github.com/stackql/stackql) ⭐ 1,075 | 🐛 113 | 🌐 Go | 📅 2026-11-05 - Query and manage AWS, GCP, Azure and dozens of other cloud APIs with SQL. `oss`
+* [maintenant](https://github.com/kOlapsis/maintenant) ⭐ 533 | 🐛 2 | 🌐 Go | 📅 2026-11-05 - Self-hosted monitoring for Docker, Swarm and Kubernetes, with endpoint, TLS and cron checks and status pages. `oss`
+* [Aurora](https://github.com/Arvo-AI/aurora) ⭐ 454 | 🐛 69 | 🌐 Python | 📅 2026-11-05 - Self-hosted AI agent that investigates production incidents across AWS, Azure, GCP and Kubernetes and returns a root-cause analysis. `oss`
 * [Grai](https://github.com/grai-io/grai-core) ⭐ 317 | 🐛 51 | 🌐 Python | 📅 2026-01-30 - Open source observability integrating data impact analysis into CI. `oss`
 * [Globalping CLI](https://github.com/jsdelivr/globalping-cli) ⭐ 293 | 🐛 3 | 🌐 Go | 📅 2026-10-29 - Run network commands like ping, traceroute and mtr from hundreds of global locations. `oss`
-* [OpenSRE](https://github.com/swapnildahiphale/OpenSRE) ⭐ 176 | 🐛 31 | 🌐 Python | 📅 2026-11-04 - Self-hosted AI agent that investigates production incidents and recalls similar past investigations. `oss`
-* [Regen](https://github.com/FluidifyAI/Regen) ⭐ 93 | 🐛 24 | 🌐 Go | 📅 2026-11-03 - Self-hosted incident management with alert ingestion, on-call scheduling, escalation policies and Slack and Teams integration. `oss`
+* [OpenSRE](https://github.com/swapnildahiphale/OpenSRE) ⭐ 176 | 🐛 30 | 🌐 Python | 📅 2026-11-05 - Self-hosted AI agent that investigates production incidents and recalls similar past investigations. `oss`
+* [Regen](https://github.com/FluidifyAI/Regen) ⭐ 94 | 🐛 24 | 🌐 Go | 📅 2026-11-03 - Self-hosted incident management with alert ingestion, on-call scheduling, escalation policies and Slack and Teams integration. `oss`
 * [Steampipe](https://steampipe.io/) - The universal SQL interface for any cloud API, & cloud intelligence dashboards extensible w/ HCL+SQL. `oss`
 * [Sensu](https://sensu.io/) - Simple. Scalable. Multi-cloud monitoring. `oss` `paid`
 * [Icinga](https://icinga.com/) - Monitors availability and performance, gives you simple access to relevant data and raises alerts. `oss` `paid`
@@ -429,8 +429,8 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
   * [Thanos](https://thanos.io/) - Highly available Prometheus setup with long-term storage. `oss`
   * [VictoriaMetrics](https://victoriametrics.com/) - Fast, cost-effective time series database and monitoring. `oss` `paid`
 * Logs Management
-  * [Loki](https://github.com/grafana/loki) ⭐ 29,122 | 🐛 1,110 | 🌐 Go | 📅 2026-11-05 - Horizontally-scalable, highly available, multi-tenant log aggregation system inspired by Prometheus. `oss` `paid`
-  * [Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,173 | 🐛 2,105 | 🌐 Java | 📅 2026-11-05 - Free and open source log management. `oss` `paid`
+  * [Loki](https://github.com/grafana/loki) ⭐ 29,131 | 🐛 1,111 | 🌐 Go | 📅 2026-11-06 - Horizontally-scalable, highly available, multi-tenant log aggregation system inspired by Prometheus. `oss` `paid`
+  * [Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,173 | 🐛 2,110 | 🌐 Java | 📅 2026-11-06 - Free and open source log management. `oss` `paid`
   * [Anthracite](https://github.com/Dieterbe/anthracite) ⭐ 293 | 🐛 12 | 🌐 JavaScript | 📅 2016-12-13 - An event/change logging/management app. `oss`
   * [LynxDB](https://github.com/lynxbase/lynxdb) ⭐ 286 | 🐛 8 | 🌐 Go | 📅 2026-08-15 - Lightweight log analytics database with SPL-inspired queries. `oss`
   * [Logstash](https://www.elastic.co/logstash) - Collect, parse, transform logs. `oss` `paid`
@@ -439,8 +439,8 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
   * [Heka](https://hekad.readthedocs.io/en/latest/#) - Stream processing software system. `oss`
   * [Kibana](https://www.elastic.co/kibana) - Explore, visualize, discover data. `oss` `paid`
 * Status
-  * [Cachet](https://github.com/CachetHQ/Cachet) ⭐ 15,261 | 🐛 8 | 🌐 PHP | 📅 2026-11-02 - Beautiful and powerful open-source status page system. `oss`
-  * [Oxmgr](https://github.com/Vladimir-Urik/OxMgr) ⭐ 299 | 🐛 11 | 🌐 Rust | 📅 2026-11-02 - Lightweight Rust process manager and PM2 alternative. 42x faster crash recovery, 19x lower memory usage. Manages Node.js, Python, Go, and any executable on Linux, macOS, and Windows. `oss`
+  * [Cachet](https://github.com/CachetHQ/Cachet) ⭐ 15,264 | 🐛 8 | 🌐 PHP | 📅 2026-11-02 - Beautiful and powerful open-source status page system. `oss`
+  * [Oxmgr](https://github.com/Vladimir-Urik/OxMgr) ⭐ 300 | 🐛 14 | 🌐 Rust | 📅 2026-11-05 - Lightweight Rust process manager and PM2 alternative. 42x faster crash recovery, 19x lower memory usage. Manages Node.js, Python, Go, and any executable on Linux, macOS, and Windows. `oss`
   * [StatusPal](https://statuspal.io/) - Communicate incidents and maintenance effectively with a beautiful hosted status page. `paid`
   * [Instatus](https://instatus.com) - Quick and beautiful status page. `free` `paid`
   * [Rootly](https://rootly.com/) - Incident management platform with on-call, status pages, retrospectives and an AI SRE, running incidents in Slack and Microsoft Teams. `paid`
@@ -449,7 +449,7 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Service Discovery, Service Mesh and Failure detection tools.*
 
-* [Linkerd](https://github.com/linkerd/linkerd2) ⭐ 11,521 | 🐛 244 | 🌐 Go | 📅 2026-11-04 - Service mesh for Kubernetes and beyond. `oss` `paid`
+* [Linkerd](https://github.com/linkerd/linkerd2) ⭐ 11,525 | 🐛 243 | 🌐 Go | 📅 2026-11-05 - Service mesh for Kubernetes and beyond. `oss` `paid`
 * [Doozerd](https://github.com/ha/doozerd) ⭐ 3,247 | 🐛 27 | 🌐 Go | 📅 2016-03-16 - A consistent distributed data store. `oss`
 * [Consul](https://www.hashicorp.com/products/consul/) - Connect and secure any service. `free` `paid` `self-hosted`
 * [Serf](https://www.serf.io/) - Decentralized cluster membership, failure detection, and orchestration. `oss`
@@ -463,20 +463,20 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Experimenting on a distributed system to build confidence in its capability to withstand turbulent conditions.*
 
-* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,219 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures. `oss`
-* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,487 | 🐛 92 | 🌐 Go | 📅 2026-10-27 - Simulate network and system conditions for chaos and resiliency testing. `oss`
-* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,965 | 🐛 428 | 🌐 Go | 📅 2026-11-04 - A Chaos Engineering Platform for Kubernetes. `oss`
-* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,738 | 🐛 402 | 🌐 Go | 📅 2026-11-04 - Litmus enables teams to identify weaknesses in infrastructures. `oss`
-* [Pumba](https://github.com/alexei-led/pumba) ⭐ 3,183 | 🐛 6 | 🌐 Go | 📅 2026-11-04 - Chaos testing, network emulation and stress testing tool for containers. `oss`
+* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,223 | 🐛 34 | 🌐 Go | 📅 2025-01-06 - A resiliency tool that helps applications tolerate random instance failures. `oss`
+* [Toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,491 | 🐛 92 | 🌐 Go | 📅 2026-10-27 - Simulate network and system conditions for chaos and resiliency testing. `oss`
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,968 | 🐛 428 | 🌐 Go | 📅 2026-11-05 - A Chaos Engineering Platform for Kubernetes. `oss`
+* [Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,739 | 🐛 404 | 🌐 Go | 📅 2026-11-05 - Litmus enables teams to identify weaknesses in infrastructures. `oss`
+* [Pumba](https://github.com/alexei-led/pumba) ⭐ 3,183 | 🐛 4 | 🌐 Go | 📅 2026-11-05 - Chaos testing, network emulation and stress testing tool for containers. `oss`
 * [Chaos Toolkit](https://github.com/chaostoolkit) - The Open Source Platform for Chaos Engineering. `oss`
 
 ## API Gateway
 
 *API Gateway, Service Proxy and Service Management tools.*
 
-* [Cilium](https://github.com/cilium/cilium) ⭐ 25,774 | 🐛 1,044 | 🌐 Go | 📅 2026-11-04 - API aware networking and security using BPF and XDP. `oss`
-* [API Umbrella](https://github.com/NREL/api-umbrella) ⭐ 2,204 | 🐛 259 | 🌐 Ruby | 📅 2026-11-03 - Proxy that sits in front of your APIs, API management platform. `oss`
-* [Gloo](https://github.com/solo-io/gloo) ⭐ 172 | 🐛 1,873 | 🌐 Go | 📅 2026-11-04 - Feature-rich, Kubernetes-native ingress controller, and next-generation API gateway. `oss` `paid`
+* [Cilium](https://github.com/cilium/cilium) ⭐ 25,783 | 🐛 1,046 | 🌐 Go | 📅 2026-11-05 - API aware networking and security using BPF and XDP. `oss`
+* [API Umbrella](https://github.com/NREL/api-umbrella) ⭐ 2,205 | 🐛 259 | 🌐 Ruby | 📅 2026-11-03 - Proxy that sits in front of your APIs, API management platform. `oss`
+* [Gloo](https://github.com/solo-io/gloo) ⭐ 173 | 🐛 1,870 | 🌐 Go | 📅 2026-11-05 - Feature-rich, Kubernetes-native ingress controller, and next-generation API gateway. `oss` `paid`
 * [SBproxy](https://github.com/soapbucket/sbproxy) ⭐ 54 | 🐛 1 | 🌐 Rust | 📅 2026-09-11 - AI gateway and reverse proxy with LLM routing, rate limiting, and YAML config. `oss`
 * [Ambassador](https://www.getambassador.io/) - Kubernetes-Native API Gateway built on the Envoy Proxy. `oss` `paid`
 * [Kong](https://konghq.com/) - Connect all your microservices and APIs with the industry’s most performant, scalable and flexible API platform. `oss` `paid`
@@ -546,8 +546,8 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Sensitive credentials and secrets managed, secured, maintained and rotated using automation.*
 
-* [Infisical](https://github.com/Infisical/infisical) ⭐ 30,275 | 🐛 881 | 🌐 TypeScript | 📅 2026-11-05 - Open source end-to-end encrypted secrets sync for teams and infrastructure. `oss` `paid`
-* [SOPS](https://github.com/getsops/sops) ⭐ 23,619 | 🐛 467 | 🌐 Go | 📅 2026-11-03 - Simple and flexible tool for managing secrets. `oss`
+* [Infisical](https://github.com/Infisical/infisical) ⭐ 30,298 | 🐛 868 | 🌐 TypeScript | 📅 2026-11-06 - Open source end-to-end encrypted secrets sync for teams and infrastructure. `oss` `paid`
+* [SOPS](https://github.com/getsops/sops) ⭐ 23,626 | 🐛 467 | 🌐 Go | 📅 2026-11-03 - Simple and flexible tool for managing secrets. `oss`
 * [Git Secret](https://github.com/sobolevn/git-secret) ⭐ 4,056 | 🐛 152 | 🌐 Shell | 📅 2026-09-28 - A bash-tool to store your private data inside a git repository. `oss`
 * [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) ⭐ 686 | 🐛 18 | 🌐 Go | 📅 2026-11-02 - Create Kubernetes secrets from Vault for a secure GitOps based workflow. `oss`
 * [SigCLI](https://github.com/sigcli/sigcli) ⭐ 292 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-28 - Signs in once through a browser or OAuth2, then supplies fresh credentials to CLI tools and AI agents without exposing them. `oss`
@@ -561,12 +561,12 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Validating, lint and best practice in term of Security on code or infrastructure.*
 
-* [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 30,674 | 🐛 524 | 🌐 Go | 📅 2026-10-28 - Detect and prevent hardcoded secrets in git repositories. `oss`
-* [checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,136 | 🐛 213 | 🌐 Python | 📅 2026-11-02 - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages. `oss`
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,202 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks with a proof trail per finding. `oss`
+* [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 30,712 | 🐛 525 | 🌐 Go | 📅 2026-10-28 - Detect and prevent hardcoded secrets in git repositories. `oss`
+* [checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,136 | 🐛 216 | 🌐 Python | 📅 2026-11-02 - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages. `oss`
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,205 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - Open source autonomous AI penetration testing platform that orchestrates 80+ offensive tools via Markdown playbooks with a proof trail per finding. `oss`
 * [Cordum](https://github.com/cordum-io/cordum) ⭐ 509 | 🐛 14 | 🌐 Go | 📅 2026-11-03 - Self-hosted control plane that applies policy checks, approval gates and audit trails to actions taken by AI agents. `free` `self-hosted`
 * [Greywall](https://github.com/GreyhavenHQ/greywall) ⭐ 313 | 🐛 31 | 🌐 Go | 📅 2026-10-17 - Deny-by-default sandbox that isolates the filesystem and network access of commands, CLI tools and AI coding agents on Linux and macOS. `oss`
-* [zanadir](https://github.com/MustacheCase/zanadir) ⭐ 181 | 🐛 39 | 🌐 Go | 📅 2026-11-04 - Reports which security and quality checks a repository's CI is missing, and which existing checks cannot fail the build. `oss`
+* [zanadir](https://github.com/MustacheCase/zanadir) ⭐ 181 | 🐛 40 | 🌐 Go | 📅 2026-11-05 - Reports which security and quality checks a repository's CI is missing, and which existing checks cannot fail the build. `oss`
 * [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC with API for CI/CD integration. `free`
 * [Trivy](https://trivy.dev/) - Scanner for vulnerabilities and misconfigurations in code and containers. `oss`
 * [Falco](https://falco.org/) - Cloud native runtime security and threat detection. `oss`
@@ -579,8 +579,8 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Single sign-on, identity providers and access management for people and services.*
 
-* [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,757 | 🐛 87 | 🌐 Go | 📅 2026-11-04 - Self-hosted single sign-on and identity provider for OAuth 2.0, OIDC, SAML, CAS and LDAP. `oss`
-* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,948 | 🐛 238 | 🌐 Go | 📅 2026-07-29 - Headless identity and user management API for login, registration, MFA and account recovery. `oss` `paid`
+* [Casdoor](https://github.com/casdoor/casdoor) ⭐ 14,769 | 🐛 90 | 🌐 Go | 📅 2026-11-05 - Self-hosted single sign-on and identity provider for OAuth 2.0, OIDC, SAML, CAS and LDAP. `oss`
+* [Ory Kratos](https://github.com/ory/kratos) ⭐ 13,947 | 🐛 239 | 🌐 Go | 📅 2026-07-29 - Headless identity and user management API for login, registration, MFA and account recovery. `oss` `paid`
 * [Keycloak](https://www.keycloak.org/) - Identity and access management with single sign-on, user federation and support for OIDC, OAuth 2.0 and SAML. `oss`
 * [Authelia](https://www.authelia.com/) - Authentication and authorization server that adds single sign-on and two-factor authentication in front of web apps through a reverse proxy. `oss`
 * [Authentik](https://goauthentik.io/) - Self-hosted identity provider with single sign-on, MFA and flows for OAuth 2.0, SAML, LDAP and proxy authentication. `oss` `paid`
@@ -591,21 +591,21 @@ Each entry ends with tags: `oss` open source, `free` free plan or free to use, `
 
 *Tools to help with sharing knowledge and telling the story.*
 
-* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,653 | 🐛 442 | 🌐 TypeScript | 📅 2026-11-02 - Easy to maintain open source documentation websites. `oss`
-* [Docsify](https://github.com/docsifyjs/docsify/) ⭐ 31,573 | 🐛 91 | 🌐 JavaScript | 📅 2026-11-03 - A magical documentation site generator. `oss`
-* [Gitbook](https://github.com/GitbookIO/gitbook) ⭐ 29,089 | 🐛 92 | 🌐 TypeScript | 📅 2026-11-04 - Modern documentation format and toolchain using Git and Markdown. `free` `paid`
-* [MkDocs](https://github.com/mkdocs/mkdocs/) ⭐ 22,534 | 🐛 183 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown. `oss`
+* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,657 | 🐛 442 | 🌐 TypeScript | 📅 2026-11-05 - Easy to maintain open source documentation websites. `oss`
+* [Docsify](https://github.com/docsifyjs/docsify/) ⭐ 31,575 | 🐛 91 | 🌐 JavaScript | 📅 2026-11-05 - A magical documentation site generator. `oss`
+* [Gitbook](https://github.com/GitbookIO/gitbook) ⭐ 29,092 | 🐛 93 | 🌐 TypeScript | 📅 2026-11-05 - Modern documentation format and toolchain using Git and Markdown. `free` `paid`
+* [MkDocs](https://github.com/mkdocs/mkdocs/) ⭐ 22,533 | 🐛 183 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown. `oss`
 * [OneCompiler](https://onecompiler.com/) - Allow users to write, run, and share code online in over 70 programming languages and databases. `free` `paid`
 
 ## VPN
 
 *VPN, routing and firewall.*
 
-* [Algo](https://github.com/trailofbits/algo) ⭐ 30,449 | 🐛 86 | 🌐 Python | 📅 2026-11-04 - Set up a personal VPN in the cloud. `oss`
+* [Algo](https://github.com/trailofbits/algo) ⭐ 30,450 | 🐛 88 | 🌐 Python | 📅 2026-11-06 - Set up a personal VPN in the cloud. `oss`
 * [Streisand](https://github.com/StreisandEffect/streisand) ⚠️ Archived - Sets up a new VPN service nearly automatically. `oss`
-* [Sshuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,643 | 🐛 201 | 🌐 Python | 📅 2026-11-03 - Transparent proxy server that works as a poor man's VPN. `oss`
+* [Sshuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,645 | 🐛 201 | 🌐 Python | 📅 2026-11-03 - Transparent proxy server that works as a poor man's VPN. `oss`
 * [Freelan](https://github.com/freelan-developers/freelan) ⭐ 1,376 | 🐛 49 | 🌐 C++ | 📅 2023-07-31 - A peer-to-peer, secure, easy-to-setup, multi-platform, open-source, highly-configurable VPN software. `oss`
-* [rustunnel](https://github.com/joaoh82/rustunnel) ⭐ 660 | 🐛 1 | 🌐 Rust | 📅 2026-11-03 - Self-hosted tunnel server for exposing local HTTP, HTTPS, TCP and UDP services, with TLS and Prometheus metrics. `oss` `paid`
+* [rustunnel](https://github.com/joaoh82/rustunnel) ⭐ 661 | 🐛 1 | 🌐 Rust | 📅 2026-11-05 - Self-hosted tunnel server for exposing local HTTP, HTTPS, TCP and UDP services, with TLS and Prometheus metrics. `oss` `paid`
 * [OpenVPN](https://openvpn.net/) - Flexible VPN solutions to secure your data communications, whether it's for Internet privacy. `oss` `paid`
 * [Pritunl](https://pritunl.com/) - Enterprise Distributed OpenVPN and IPsec Server. `oss` `paid`
 * [VyOS](https://vyos.io/) - Open source network OS that runs on a wide range of hardware, virtual machines, and cloud providers. `oss` `paid`
@@ -664,4 +664,4 @@ The list (this README) is dedicated to the public domain under [CC0 1.0](LICENSE
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
